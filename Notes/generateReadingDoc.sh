@@ -1,6 +1,13 @@
 OIFS="$IFS"
 IFS=$'\n'
-filenames=$(find ReadingGeneral -name "*.md" | sort)
+
+if [ $# -ne 2 ]; then
+  echo "Usage: thisScipt.sh directoryToLookIn outFileName"
+  exit 1;
+fi
+
+
+filenames=$(find "$1" -name "*.md" | sort)
 
 for f in $filenames; do
   echo "$f"
