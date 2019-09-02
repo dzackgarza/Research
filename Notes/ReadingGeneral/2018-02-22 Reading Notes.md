@@ -159,7 +159,7 @@ The Pontryagin-Thom construction shows that the stable homotopy groups of sphere
 
 The best overall summary of results would be Doug Ravenel's book on the homotopy groups of spheres, and I would also recommend Kochman's book. Read works of Mark Mahowald for results using the Adams spectral sequence, and Doug Ravenel for the Adams-Novikov spectral sequence. Complete or nearly complete calculations for the homotopy groups of spheres that have been localized at a particular Morava K-theory have been made by Toda, Goerss-Henn-Mahowald-Rezk, and Mark Behrens. If you're interested in computer calculations of Ext, you should contact Robert Bruner or Christian Nassau. Many others have contributed to the calculation of homotopy groups of spheres and probably deserve to be mentioned (if I omitted someone, it was unintentional).
 
-*One of the most recent spectacular advances in algebraic topology was the solution of (most of) the Kervaire invariant 1 problem by Hill, Hopkins and Ravenel about framed manifolds/stable homotopy groups of spheres.* They used a tremendous amount of stuff to solve this classical problem: equivariant topology, chromatic homotopy theory, spectral sequences, orthogonal spectra, abstract homotopy theory, ...
+**One of the most recent spectacular advances in algebraic topology was the solution of (most of) the Kervaire invariant 1 problem by Hill, Hopkins and Ravenel about framed manifolds/stable homotopy groups of spheres.** They used a tremendous amount of stuff to solve this classical problem: equivariant topology, chromatic homotopy theory, spectral sequences, orthogonal spectra, abstract homotopy theory, ...
 
 [https://www.youtube.com/watch?v=jie-ww7RBWY](https://www.youtube.com/watch?v=jie-ww7RBWY)
 
