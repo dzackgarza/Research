@@ -1,6 +1,4 @@
-# Reading Notes
-
-[TOC]
+# 2018-02-22 Reading Notes
 
 Paper on "constructive" algebraic topology
 [J. Rubio, F. Sergeraert / Bull. Sci. math. 126 (2002) 389–412 403](https://www-fourier.ujf-grenoble.fr/~sergerar/Papers/Constructive-AT.pdf)
