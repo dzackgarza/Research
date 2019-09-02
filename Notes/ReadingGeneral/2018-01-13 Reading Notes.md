@@ -192,17 +192,13 @@ dd1 \\ 2
 \]
 
 $$
-\begin{array}{c}
+\begin{array}{c|ccc}
+1 && H^0(S^2, \ZZ) && 0 && H^2(S^2, \ZZ) \\
+0  && H^0(S^2, \ZZ) && 0 && H^2(S^2, \ZZ) \\
+\hline
+ && 0 && 1 && 2
 \end{array}
 $$
-<!--\[-->
-<!--\begin{array}{c|ccc}-->
-<!--1 && H^0(S^2, \ZZ) && 0 && H^2(S^2, \ZZ) \\-->
-<!--0  && H^0(S^2, \ZZ) && 0 && H^2(S^2, \ZZ) \\-->
-<!--\hline-->
- <!--&& 0 && 1 && 2-->
-<!--\end{array}-->
-\]
 
 And $E_3 = E_\infty$, so $d_2^{0,1}$ is an isomorphism.
 
