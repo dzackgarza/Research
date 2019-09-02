@@ -1,4 +1,5 @@
-
+OIFS="$IFS"
+IFS=$'\n'
 filenames=$(find ReadingGeneral -name "*.md" | sort)
 
 for f in $filenames; do
