@@ -199,7 +199,6 @@ And $E_3 = E_\infty$, so $d_2^{0,1}$ is an isomorphism.
 Challenge: Prove $\pi_4(S^2) = \frac{\ZZ}{2\ZZ}$
 # Reading Notes
 
-[TOC]
 
 Paper on "constructive" algebraic topology
 [J. Rubio, F. Sergeraert / Bull. Sci. math. 126 (2002) 389–412 403](https://www-fourier.ujf-grenoble.fr/~sergerar/Papers/Constructive-AT.pdf)
@@ -1108,7 +1107,7 @@ $K^n(X) \definedas π_{-n}K(X)$.
 > Be warned that K-theorists and geometers write $K_n(X)$ for our $K^{−n}(X)$ -- we will stick to homotopy-theoretic notation, however.
 
 K can be defined so that it actually gives a contravariant functor (Schemes) → (Spectra), and so the groups $K^n(X)$ do indeed start to look like a cohomology theory. For X a topological space, the analogue of K(X) turns out to be the mapping
-spectrum $bu^X$, where bu is the spectrum representing complex connective K-theory (so that $bu$ is the connective cover of the spectrum $BU$). 
+spectrum $bu^X$, where bu is the spectrum representing complex connective K-theory (so that $bu$ is the connective cover of the spectrum $BU$).
 
 Thus, the functor K can be thought of as a substitute for the spectrum bu -- it is sort of a device for storing all the same information that bu provides, but without an honest ‘space’ to house it in.
 
@@ -1128,7 +1127,7 @@ $$
 is a homotopy pullback diagram.
 
 Our first guess is motivated by the hypothesis that a contravariant functor $E$ : (Schemes) → (Spectra), in analogy to the functor $K$, should look like a cohomology theory. A weak equivalence of schemes $X \to Y$ would be expected to have the property
-that $E(Y ) → E(X)$ is a weak equivalence of spectra for every such $E$. 
+that $E(Y ) → E(X)$ is a weak equivalence of spectra for every such $E$.
 
 Believing that this gives the ‘correct’ definition of weak equivalence reduces to believing that the whole homotopy theory of schemes is captured in the two basic facts that $\mathrm{hocolim}~U_\wait \longrightarrow X$ and $X \cross I \to X$ are weak equivalences.  The surprising answer is yes. If we use this definition in the case of reasonable topological spaces (like CW-complexes) we do recover the usual notion of weak equivalence. It says that the homotopy-theory of topological spaces can indeed be ‘generated’ by these two fundamental properties.
 
@@ -1192,7 +1191,7 @@ To look up and learn more about:
   - Also piece together theory of e.g. comodules over them
   - Also Hopf Algebroids
 - Localization
-  - See some actual computations of computing "at a prime" or "away from a prime" 
+  - See some actual computations of computing "at a prime" or "away from a prime"
 - Gerbes
 - Simplicial sets
   - Find some results that actually work/compute with these
@@ -1210,7 +1209,7 @@ To look up and learn more about:
 - Formal group laws
 - Symmetric monoidal categories
 - Quillen equivalence
-- Model categories 
+- Model categories
   - And cofibrant generation
 - **The Steenrod Algebra**
 - Cohomology operations
@@ -1441,9 +1440,9 @@ $$
 {K(\pi_2X, 3)} \arrow[rr, "k_3", hook]           &  & X_1 \arrow[rr]                                                 &  & X
 \end{tikzcd}
 $$
-Note that we have fibrations 
-$$K(\pi_{i+1}(X), i+2) \to X_i \to X_{i-1}$$ 
-for all $i > 1$, and so using our earlier notation we can suggestively write 
+Note that we have fibrations
+$$K(\pi_{i+1}(X), i+2) \to X_i \to X_{i-1}$$
+for all $i > 1$, and so using our earlier notation we can suggestively write
 $X_i \cong K(\pi_{i+1}(X) \semidirect X_{i-1}$. It also turns out there is a weak
 equivalence $X \to \lim_i X_i$, and so carrying this out inductively allows us to write
 $$
