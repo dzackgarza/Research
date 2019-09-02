@@ -146,7 +146,7 @@ $J: \pi_k(SO^n) \to \pi_{n+k} S^n$
 
 ---
 
-It is ''well-known'' that the third stable homotopy group of spheres is cyclic of order 24. It is also "well-known" that the quaternionic Hopf map $ν:S^7→S^4$, an $S^3$-bundle, suspends to a generator of $\pi_8(S^5)=\pi^{st}_3$. It is even better known that the complex Hopf map $\eta: S^3 \to S^2$ suspends to a generator of $\pi_4(S^3) = \pi^{st}_1=\ZZ_2$. For this, there is a reasonably elementary argument, see e.g. Bredon, Topology and Geometry, page 465.
+It is ''well-known'' that the third stable homotopy group of spheres is cyclic of order 24. It is also "well-known" that the quaternionic Hopf map $\nu: S^7→S^4$, an $S^3$-bundle, suspends to a generator of $\pi_8(S^5)=\pi^{st}_3$. It is even better known that the complex Hopf map $\eta: S^3 \to S^2$ suspends to a generator of $\pi_4(S^3) = \pi^{st}_1=\ZZ_2$. For this, there is a reasonably elementary argument, see e.g. Bredon, Topology and Geometry, page 465.
 
 As we have seen in this MO question, and also this one, the K3 surface plays an important role in the third stable homotopy group of spheres. It can be viewed as the source of the 24 in this group $\pi^{st}_3 = \ZZ_{24}$. Here is a brief review of how that goes: the stable homotopy groups (in degree $n$) of spheres are the same as cobordism classes of stably framed manifolds (of dimension $n$). In dimension 3 the generator is given by $\nu = (S^3,Lie)$, the 3-sphere with its Lie group framing (where we think of $S^3⊆H$ as the group of unit quaternions).
 
