@@ -780,7 +780,8 @@ _Lemma:_ The classifying space of $\GL(n, \RR)$ is $\Gr(n, \RR^\infty)$
 _Lemma:_ For $G$ an abelian group and $X$ a CW complex, $[X, K(G, n)] \cong H^n(X; G)$
 
 The structure group of a vector bundle can be taken to be either the general linear group or the orthogonal group, and the classifying space of both groups are homotopy-equivalent to an infinite real Grassmanian.
-$$\begin{align}
+\[
+\begin{align}
 I(\RR^1, B) &= [B, B(\restrictionof{\text{(Sym$~\RR$)}}{\text{Vect}})]\\
 &= [B, B(\GL(1, \RR))]\\
 &= [B, \Gr(1, \RR^\infty)] \\
@@ -788,7 +789,7 @@ I(\RR^1, B) &= [B, B(\restrictionof{\text{(Sym$~\RR$)}}{\text{Vect}})]\\
 &= [B, K(\ZZ_2, 1)] \\
 &= H^1(B; \ZZ_2)
 \end{align}
-$$
+\]
 $\qed$
 
 This is the general sort of pattern we will find - isomorphism classes of bundles will be represented by homotopy classes of maps into classifying spaces, and for nice enough classifying spaces, these will represent elements in cohomology.
