@@ -993,7 +993,7 @@ Big Theorems:
 - Division Algebras over $\RR$
 - Borsuk-Ulam
 - Invariance of domain
-- Aatiyah-Singer Index Theorem
+- Atiyah-Singer Index Theorem
   - $K\dash$theory and bordism
 - Brown Representability Spectrum
 
