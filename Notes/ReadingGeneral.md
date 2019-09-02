@@ -740,7 +740,7 @@ That is, the total spaces that occur when a one-dimensional real vector space (i
 
 But another possibility is $E \cong M^\circ \in\text{DiffTop}$, an open Möbius band:
 
-![Möbius band](/home/zack/notes/images/2018/05/mobius-band.png)
+![Möbius band](/home/zack/SparkleShare/github.com/Notes/assets/images/torus-bundle.png)
 
 Here we can take the base space $B$ to be the circle through the center of the band; then every open neighborhood $U$ of a point $b\in B$ contains an arc of the center circle crossed with a vertical line segment that misses $\del M$. Thus the local picture looks like $S^1 \cross I^\circ$, while globally $M\not\cong S^1 \cross I^\circ \in \text{Top}$.^[Due to the fact that, for example, $M$ is nonorientable and orientability distinguishes topological spaces up to homeomorphism.]
 
@@ -825,10 +825,10 @@ S^1 \to E \mapsvia{\pi} S^1
 $$
 
 There is a trivial bundle, when $E = S^1 \cross S^1 = T^2$, the torus:
-![torus bundle](/home/zack/notes/images/2018/05/torus-bundle.png)
+![torus bundle](/home/zack/SparkleShare/github.com/dzackgarza.comv2018/_site/assets/images/klein-bottle.png)
 
 There is also a nontrivial bundle, $E = K$, the Klein bottle:
-![Klein bottle](/home/zack/notes/images/2018/05/klein-bottle.png)
+![Klein bottle](/home/zack/SparkleShare/github.com/dzackgarza.comv2018/_site/assets/images/klein-bottle.png)
 
 As in the earlier example involving the Möbius strip, since $K$ is nonorientable, $T^2 \not\cong K$ and there are thus at least two distinct bundles of this type.
 
