@@ -532,7 +532,6 @@ It's possible to take classifying spaces of stacks. E.g. there is a stack that c
 Stable homotopy of $BG$: same sort of techniques as in $S^n$, break into components.
 
 $EG$ can be constructed as $\bigcup_n G \ast G \ast \cdots \ast G$, where $\ast$ is join of two spaces: the suspension of the smash product. For example, $G = \ZZ_2$ implies $EG = \bigcup_n \ZZ_2 \ast \cdots = \bigcup_n S^{n-1} = S^\infty$.
-[TOC]
 
 # Difference between low and high dimensional topology
 High-dimensional topology refers to manifolds of dimension 5 and above, or in relative terms, embeddings in codimension 3 and above. Low-dimensional topology is concerned with questions in dimensions up to 4, or embeddings in codimension up to 2.
@@ -572,9 +571,9 @@ The uniformization theorem is a generalization of the Riemann mapping theorem fr
 
 Every Riemann surface is the quotient of a free, proper and holomorphic action of a discrete group on its universal covering and this universal covering is holomorphically isomorphic (one also says: "conformally equivalent" or "biholomorphic") to one of the following:
 
-1. the Riemann sphere
-2. the complex plane
-3. the unit disk in the complex plane.
+1. The Riemann sphere
+2. The complex plane
+3. The unit disk in the complex plane.
 
 In 3 dimensions, there are 8 geometries, called the eight Thurston geometries. Not every 3-manifold admits a geometry, but Thurston's geometrization conjecture proved by Grigori Perelman states that every 3-manifold can be cut into pieces that are geometrizable.
 
@@ -606,7 +605,6 @@ acts on the fibers of p via the monodromy action. In particular, the universal c
 Any topological group $G$ admits a classifying space $BG:$ the quotient by the action of $G$ of some weakly contractible space $EG$, i.e. a topological space with vanishing homotopy groups. The classifying space has the property that any $G$ principal bundle over a paracompact manifold $B$ is isomorphic to a pullback of the principal bundle $EG → BG$.
 
 In fact, more is true, as the set of isomorphism classes of principal $G$ bundles over the base $B$ identifies with the set of homotopy classes of maps $B → BG$.
-[TOC]
 
 # 4-08-2018 Research Notes
 
@@ -779,7 +777,7 @@ _Lemma:_ The classifying space of $\GL(n, \RR)$ is $\Gr(n, \RR^\infty)$
 
 _Lemma:_ For $G$ an abelian group and $X$ a CW complex, $[X, K(G, n)] \cong H^n(X; G)$
 
-The structure group of a vector bundle can be taken to be either the general linear group or the orthogonal group, and the classifying space of both groups are homotopy-equivalent to an infinite real Grassmanian.
+The structure group of a vector bundle can be taken to be either the general linear group or the orthogonal group, and the classifying space of both groups are homotopy-equivalent to an infinite real Grassmannian.
 $$\begin{align}
 I(\RR^1, B) &= [B, B(\restrictionof{\text{(Sym$~\RR$)}}{\text{Vect}})]\\
 &= [B, B(\GL(1, \RR))]\\
