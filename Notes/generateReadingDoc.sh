@@ -1,4 +1,8 @@
 
 filenames=$(find ReadingGeneral -name "*.md" -exec echo @import \"{}\" \; | sort)
-echo $filenames
+
+for f in filenames; do
+  echo $f
+done
+
 #sed -i "1s/^/[toc]\n\n#Reading Notes\n\n/" ReadingNotes.md
