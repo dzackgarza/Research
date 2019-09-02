@@ -215,7 +215,7 @@ If one understood even the stable homotopy groups of spheres very well, one woul
 
 The homotopy group $π_{n+k}(S^k)$ is a finite group except
 
-1. for $n=0$ in which case $π_k(S^k)=\ZZ$;
+1. For $n=0$ in which case $π_k(S^k)=\ZZ$;
 
 2. $k=2m$ and $n=2m−1$ in which case $π_{4m−1}(S^{2m})≃Z⊕F_m$
 for $F_m$ a finite group.
