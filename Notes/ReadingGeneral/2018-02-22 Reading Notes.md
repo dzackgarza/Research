@@ -30,9 +30,8 @@ The $J$ homomorphism seems to link the framed bordism classes of manifolds to ho
 What is the $J$ homomorphism? Look at the map
 \[
 \begin{align*}
-
-SO(n) \to \Omega^n S^n\\
-A: (\RR^n \to \RR^n) \mapsto A^+
+SO(n) &\to \Omega^n S^n\\
+A: (\RR^n \to \RR^n) &\mapsto A^+
 .\end{align*}
 \]
 
