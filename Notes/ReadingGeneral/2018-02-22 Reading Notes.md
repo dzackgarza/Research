@@ -151,9 +151,9 @@ It is ''well-known'' that the third stable homotopy group of spheres is cyclic o
 As we have seen in this MO question, and also this one, the K3 surface plays an important role in the third stable homotopy group of spheres. It can be viewed as the source of the 24 in this group $\pi^{st}_3 = \ZZ_{24}$. Here is a brief review of how that goes: the stable homotopy groups (in degree $n$) of spheres are the same as cobordism classes of stably framed manifolds (of dimension $n$). In dimension 3 the generator is given by $\nu = (S^3,Lie)$, the 3-sphere with its Lie group framing (where we think of $S^3⊆H$ as the group of unit quaternions).
 
 
-The homotopy groups $\pi_i(S^3)$ for $i\leq 64$ are apparently computed in:
+> The homotopy groups $\pi_i(S^3)$ for $i\leq 64$ are apparently computed in:
 
-Curtis, Edward B.,Mahowald, Mark, The unstable Adams spectral sequence for $S^3$, Algebraic topology (Evanston, IL, 1988), 125–162, Contemp. Math., 96, Amer. Math. Soc., Providence, RI, 1989.
+> Curtis, Edward B.,Mahowald, Mark, The unstable Adams spectral sequence for $S^3$, Algebraic topology (Evanston, IL, 1988), 125–162, Contemp. Math., 96, Amer. Math. Soc., Providence, RI, 1989.
 
 The Pontryagin-Thom construction shows that the stable homotopy groups of spheres are the same as the groups of stably framed manifolds up to cobordism.
 
