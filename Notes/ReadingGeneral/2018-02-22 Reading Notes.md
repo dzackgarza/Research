@@ -28,10 +28,13 @@ the $(k + 1)\dash$skeleton
 The $J$ homomorphism seems to link the framed bordism classes of manifolds to homotopy groups of spheres - for example $J$ takes $\pi_k(SL^n(R))$ to $\pi_{n}^k S^n$.
 
 What is the $J$ homomorphism? Look at the map
-$$
+\[
+\begin{align*}
+
 SO(n) \to \Omega^n S^n\\
 A: (\RR^n \to \RR^n) \mapsto A^+
-$$
+.\end{align*}
+\]
 
 Where we view a matrix as a linear function on $\RR^n$, and take it to its compactification which is a map $S^n\to S^n$. Taking the limit yields a map from $SO^\infty \to QS^0 = \ \Omega^\infty \Sigma^\infty S^0$, and taking $\pi_0$ of both sides induces the $J$ homomorphism. The RHS is equal to $\pi_*^s$, the stable homotopy groups of spheres.
 But the homotopy groups of $SO$ were computed by Bott, and have some 8-fold periodicity.
