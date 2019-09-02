@@ -175,9 +175,12 @@ Question 1.6. For which $n$ does there exist a unique smooth structure on $S^n$?
 
 # Table of n+k homotopy groups of spheres
 ![](assets/2-22ReadingNotes-7a07a.png)
-
-$K(G, n) \cong \Omega K(G, n+1)$
+\[
+K(G, n) \cong \Omega K(G, n+1)
+\]
 
 is adjoint to the map
 
-$\Sigma K(G,n ) \to K(G, n+1)$
+[
+\Sigma K(G,n ) \to K(G, n+1)
+\]
