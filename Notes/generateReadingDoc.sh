@@ -8,9 +8,10 @@ fi
 
 
 filenames=$(find "$1" -name "*.md" | sort)
+echo "" > $2
 
 for f in $filenames; do
-  echo "$f"
+  echo "$f" > $2
 done
 
 #sed -i "1s/^/[toc]\n\n#Reading Notes\n\n/" ReadingNotes.md
