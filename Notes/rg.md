@@ -211,7 +211,7 @@ The handbooks of Algebraic Topology more or less explain the Eilenberg–Moore s
 
 ----
 
-if one understood even the stable homotopy groups of spheres very well, one would therefore have a near complete understanding of the group (I assume that $n\neq 4$) of differentiable structures on the n-sphere: see e.g.
+If one understood even the stable homotopy groups of spheres very well, one would therefore have a near complete understanding of the group (I assume that $n\neq 4$) of differentiable structures on the n-sphere: see e.g.
 
 The homotopy group $π_{n+k}(S^k)$ is a finite group except
 
