@@ -185,7 +185,16 @@ For the fibration $S^1 \into S^3 \into S^2$, the $E_2$ page:
 <!--\]-->
 
 Which is equal to
+\[
+\begin{align*}
+dd1 \\ 2
+.\end{align*}
+\]
 
+$$
+\begin{array}{c}
+\end{array}
+$$
 <!--\[-->
 <!--\begin{array}{c|ccc}-->
 <!--1 && H^0(S^2, \ZZ) && 0 && H^2(S^2, \ZZ) \\-->
