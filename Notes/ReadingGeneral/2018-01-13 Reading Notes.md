@@ -115,7 +115,7 @@ A decomposition dual to cell decomposition, the atoms of the space are Eilenberg
 Gives a way of going back and forth between $X$ and $\pi_*(X)$: defined as a tower of spaces $X_0 \leftarrow X_1 \leftarrow \cdots$
 
 - $X_{i-1} \leftarrow X_i$ is a fibration
-- $\pi_k(X_n) = \indic{ \leq n} \cdot \pi_k(X) + \mathbb{1}[k > n]\cdot 0$
+- $\pi_k(X_n) = \indic{ \leq n} \cdot \pi_k(X) + \indic{k > n} \cdot 0$
   - So all lower homotopy groups agree at the $n$-th spot
 - (Probably) $X_i \injects X$
 
