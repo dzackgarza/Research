@@ -1,5 +1,5 @@
 
-filenames=$(find ReadingGeneral -name "*.md" -exec echo @import \"{}\" \; | sort)
+filenames=$(find ReadingGeneral -name "*.md" | sort)
 
 for f in $filenames; do
   echo "$f"
