@@ -181,6 +181,6 @@ K(G, n) \cong \Omega K(G, n+1)
 
 is adjoint to the map
 
-[
+\[
 \Sigma K(G,n ) \to K(G, n+1)
 \]
