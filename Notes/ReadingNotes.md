@@ -1,3 +1,11 @@
+---
+title: "Reading Notes"
+output:
+  custom_document:
+    path: /Exports/test.pdf
+    toc: true
+---
+
 [toc]
 
 #Reading Notes
