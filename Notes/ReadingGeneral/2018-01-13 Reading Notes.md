@@ -174,23 +174,24 @@ Some fibrations
 
 Serre Spectral Sequence Example:
 For the fibration $S^1 \into S^3 \into S^2$, the $E_2$ page:
-$$
+
 \begin{array}{c|ccc}
 1 && H^0(S^2, \ZZ) && H^1(S^2, \ZZ) && H^2(S^2, \ZZ) \\
 0  && H^0(S^2, \ZZ) && H^1(S^2, \ZZ) && H^2(S^2, \ZZ) \\
 \hline
  && 0 && 1 && 2
 \end{array}
-$$
+
+
 Which is equal to
-\[
+
 \begin{array}{c|ccc}
 1 && H^0(S^2, \ZZ) && 0 && H^2(S^2, \ZZ) \\
 0  && H^0(S^2, \ZZ) && 0 && H^2(S^2, \ZZ) \\
 \hline
  && 0 && 1 && 2
 \end{array}
-\]
+
 And $E_3 = E_\infty$, so $d_2^{0,1}$ is an isomorphism.
 
 *Note: Probably a good starting point for basic calculations? Fill out the missing details for this table.*
