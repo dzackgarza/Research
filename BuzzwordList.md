@@ -1,0 +1,225 @@
+- "Type" of a quadratic form
+- $A_\infty$
+- $E_\infty$
+- $E_n$ rings
+- $H\dash$spaces
+- $K\dash$theory
+- $p\dash$adic cohomology
+- $\infty\dash$categories
+- **$K\dash$theory**
+- **Morava $K$ and $E$ theory**
+- **Spectra**
+	- Ring spectra
+	- Especially try to understand the bordism spectrum, $MO$? And $MU$
+		- Want to know $K(MU), TC(MU)$, etc
+	- $BP$
+	- Extract some of the motivating examples of computations with spectra from my textbook annotations
+	- Really spell out the details of how they're constructed (find/pick one of the nicer definitions) and their duality with homology theories
+- **The Steenrod Algebra**
+- Abelian varieties
+- Adjunction
+- Algebraic K Theory
+	- And how topological cyclic homology is related and more computable
+- Differential Graded Algebras
+- Lie algebras
+- Blowup
+- Bousfield localization
+- Bousfield-Kan spectral sequence
+- Brauer groups
+- Characteristic Classes (see Milnor)
+	- Chern class
+	- Euler class (or Euler bundle..? Find in old email)
+	- Mapping cylinder/cone
+	- Stiefel-Whitney class
+- Chow rings
+- Chromatic homotopy theory
+- Classification of surfaces
+- Classifying orbifolds
+- Closed points of a scheme
+- Cohomology operations
+- Colimits
+- Completions
+- Complex structures, almost-complex structures
+- Contact structures
+- Deformation theory
+- Descent
+- Elliptic cohomology
+	- Hopkins' viewpoint on elliptic spectra
+- Equivalence of categories
+	- Need to state this precisely!
+- Equivariant Homology
+	- What were Deligne's contributions?
+- Exceptional divisor
+- Floer homology
+- Foliation
+- Formal group laws
+- Formal Groups
+	- Where they come up, what they're used for, why important
+- Fukaya categories
+- Generalized Poincare
+- Gerbes
+- Get a more precise understanding of $n\dash$categories
+- Haar measure
+- Hodge Conjecture
+- Hodge decomposition
+- Hodge numbers
+- Homotopy and derived categories
+	- Sort out weak equivalences vs homotopy equivalences vs quasi-isomorphisms etc
+- Homotopy limit/colimit
+- Homotopy quotient
+- Homotopy fixed points
+- Hopf Algebras
+	- Also Hopf Algebroids
+	- Also piece together theory of e.g. comodules over them
+	- Same story, extract and understand the motivating examples
+- Hyperbolic 3-manifolds
+- Index theory
+- Isotropy group
+- Jacobian of a curve
+- Kervaire Invariant 1 Problem
+  - Chromatic homotopy theory
+  - Equivariant topology
+  - Orthogonal spectra
+- L functions for elliptic curves
+- Langlands and Geometric Langlands
+- Limits, colimits
+- Linearly independent sections
+- Local fields
+- Localization
+	- See some actual computations of computing "at a prime" or "away from a prime"
+- Loop spaces
+	- Particularly infinite loop spaces, and why they're important
+- Lubin-Tate spaces
+- Mapping class group: orientation-preserving diffeos / id component
+- Massey products
+- Metrics and curvature on manifolds
+- Milnor's conjecture
+- Mirror Symmetry
+- Model categories
+	- And cofibrant generation
+- Model categories
+- Moduli stacks
+  - Coarse moduli space
+    - Somehow a nicer version of a stack where torsion in the automorphism groups aren't messing things up
+- Morava $E\dash$theory and $K\dash$theory
+	- $E$ behaves like a local ring and $K$ its residue fields
+- Morava E-Theory
+- Motivate and understand phantom maps
+- Nilpotence
+- Nishida's Theorem:
+	- The $S^1$ spectrum is some kind of "thickening" of $\ZZ$?
+- Normal bundle
+- Orbifold
+- Perfect fields
+- Picard group (e.g. of $L_{K(n)}S^O$)
+- Profinite groups
+- Pushouts, pullbacks
+- Quasi-coherent sheaves over a scheme
+- Quillen equivalence
+- Regular representations
+- Representation Stability
+- Resolutions
+- Riemann-Roch
+- Sard's Theorem
+- Schemes
+- Sectional curvature
+	- Of a Riemannian manifold
+- Seiberg-Witten theory
+- Simplicial sets
+	- Find some results that actually work/compute with these
+- Smash product
+- Smooth projective curves
+- Spf: Formal spectrum
+- Stacks
+- Steenrod Algebra
+- Suspension
+- Symmetric monoidal categories
+- Symplectic manifolds
+- Symplectic geometry
+	- Lagrangian submanifolds
+- Tate cohomology
+- Tate Twist
+- Teichmüller space: space of complex structures
+- The $J$-homomorphism
+	- [See beginning of Hopkins talk](https://www.youtube.com/watch?v=Ix4pg87LKVk)
+- The Adams Spectral Sequence
+- The chromatic redshift conjecture
+- The chromatic spectral sequence
+- The chromatic splitting conjecture
+	- Is this similar to fracture theorems in stable homotopy..?
+- The cobordism hypothesis
+- Etale fundamental group
+- Etale cohomology
+- $\ell\dash$adic cohomology
+- Frobenius
+- The generating hypothesis in stable homotopy theory
+- Grothendieck-Witt Ring
+- Kervaire invariant 1 problem
+- Milnor conjecture
+- Morava stabilizer groups
+- Novikov conjecture
+  - Geometry/Topology 
+- Ravenel conjectures
+	- Particularly Mike Hopkins' contributions
+- Telescope conjecture
+- Weil Conjectures
+	- What are the actual statements? What is their importance within AG?
+- $L-$space conjectures
+- Thom spectrum
+	- And Thom space
+- Topological modular forms
+- Topological modular forms
+- Trivial, canonical, universal bundles
+- Tubular neighborhoods
+- Understand the $H$ notation, i.e. $H\ZZ$
+- Uniformization
+- Vandiver's conjecture
+- Weyl groups
+ - $p\dash$completions
+- The limit definitions of pullbacks/pushouts and products/coproducts
+- The action of $\pi_1 \actson \pi_n$ and any topological invariant
+- The unit of an adjunction
+- Monad, and its uses within Topology
+- A statement of the Yoneda lemma
+- Homotopy equivalence vs weakly homotopy equivalent vs quasi-isomorphisms
+- What are the subobjects and quotients of a category?
+- Kan extensions
+- Kan complex
+- Bousfield localization
+- Loop and Path spaces
+- Try to write a composition series as an exact sequence
+- Add lens spaces to examples
+- Do some examples of natural transformations and the Yoneda lemma
+- Branched surfaces
+- Surface bundles
+- Monodromy representations
+- Foliations
+- Orbifolds
+- Sutured manifolds
+- Dehn twists
+- Train tracks
+- Sarnak's Conjecture
+  - Analytic?
+- Novikov conjecture
+- Artin conjecture
+  - Analytic?
+- $K3$ surfaces
+- Kahler Manifolds
+- Toric Varieties
+- Calabi-Yau manifolds
+- Threefolds
+- deRham-Witt complex
+- Crystalline cohomology
+- $L$ functions
+- THH
+- Hopf algebras
+- Topological modular forms
+- TQFTs
+- Gauge theories
+- Configuration spaces
+- Steenrod operations 
+- Braid groups
+-  Congruence subgroups
+-  Fibre homotopy equivalence
+-  Thom space
+-  Fuchsian group
