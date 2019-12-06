@@ -93,7 +93,11 @@
 - Lubin-Tate spaces
 - Mapping class group: orientation-preserving diffeos / id component
 - Massey products
-- Metrics and curvature on manifolds
+- Laplace–Beltrami operator
+- Curvature
+- Gaussian Curvature
+- First and Second Fundamental Forms
+- Levi-Cevita Connection
 - Milnor's conjecture
 - Mirror Symmetry
 - Model categories
