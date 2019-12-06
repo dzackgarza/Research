@@ -61,6 +61,7 @@
 - Get a more precise understanding of $n\dash$categories
 - Haar measure
 - Hodge Conjecture
+- Hodge Theory
 - Hodge decomposition
 - Hodge numbers
 - Homotopy and derived categories
