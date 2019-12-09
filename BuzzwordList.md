@@ -87,11 +87,12 @@
 - Linearly independent sections
 - Local fields
 - Localization
+- Local systems
 	- See some actual computations of computing "at a prime" or "away from a prime"
 - Loop spaces
 	- Particularly infinite loop spaces, and why they're important
 - Lubin-Tate spaces
-- Mapping class group: orientation-preserving diffeos / id component
+- Mapping class group: orientation-preserving diffeomorphisms / id component
 - Massey products
 - Laplace–Beltrami operator
 - Curvature
