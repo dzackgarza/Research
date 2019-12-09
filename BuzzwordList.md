@@ -1,5 +1,6 @@
 - "Type" of a quadratic form
 - $A_\infty$
+  - Comes in Heegard-Floer
 - $E_\infty$
 - $E_n$ rings
 - $H\dash$spaces
@@ -60,7 +61,6 @@
 - Gerbes
 - Get a more precise understanding of $n\dash$categories
 - Haar measure
-- Hodge Conjecture
 - Hodge Theory
 - Hodge decomposition
 - Hodge numbers
@@ -99,7 +99,6 @@
 - Gaussian Curvature
 - First and Second Fundamental Forms
 - Levi-Cevita Connection
-- Milnor's conjecture
 - Mirror Symmetry
 - Model categories
 	- And cofibrant generation
@@ -149,9 +148,7 @@
 - The $J$-homomorphism
 	- [See beginning of Hopkins talk](https://www.youtube.com/watch?v=Ix4pg87LKVk)
 - The Adams Spectral Sequence
-- The chromatic redshift conjecture
 - The chromatic spectral sequence
-- The chromatic splitting conjecture
 	- Is this similar to fracture theorems in stable homotopy..?
 - The cobordism hypothesis
 - Etale fundamental group
@@ -161,16 +158,8 @@
 - The generating hypothesis in stable homotopy theory
 - Grothendieck-Witt Ring
 - Kervaire invariant 1 problem
-- Milnor conjecture
 - Morava stabilizer groups
-- Novikov conjecture
-  - Geometry/Topology 
-- Ravenel conjectures
 	- Particularly Mike Hopkins' contributions
-- Telescope conjecture
-- Weil Conjectures
-	- What are the actual statements? What is their importance within AG?
-- $L-$space conjectures
 - Thom spectrum
 	- And Thom space
 - Topological modular forms
@@ -179,7 +168,6 @@
 - Tubular neighborhoods
 - Understand the $H$ notation, i.e. $H\ZZ$
 - Uniformization
-- Vandiver's conjecture
 - Weyl groups
  - $p\dash$completions
 - The limit definitions of pullbacks/pushouts and products/coproducts
@@ -204,11 +192,6 @@
 - Sutured manifolds
 - Dehn twists
 - Train tracks
-- Sarnak's Conjecture
-  - Analytic?
-- Novikov conjecture
-- Artin conjecture
-  - Analytic?
 - $K3$ surfaces
 - Kahler Manifolds
 - Toric Varieties
