@@ -1,6 +1,6 @@
 - "Type" of a quadratic form
 - $A_\infty$
-  - Comes in Heegard-Floer
+  - Comes in Heegaard-Floer
 - $E_\infty$
 - $E_n$ rings
 - $H\dash$spaces
