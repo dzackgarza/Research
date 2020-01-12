@@ -2,7 +2,7 @@ Motivation:
 Studying elliptic curves, or more generally, abelian varieties $E$.
 The most important object is the **$\ell\dash$adic Tate module of $E$.**
 It is able to detect the ability to lift $E/k$ to the ring of integers $O_k$.
-Also captures the isogeny class of $E$.
+Also captures the isogeny class of $E$ over a finite field.
 
 Some slogans:
 
