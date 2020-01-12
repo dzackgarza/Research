@@ -12,5 +12,6 @@ Some slogans:
 - "Etale groups schemes are entirely determined by their geometric points."
 - "Deformation theory for ‘blah’s is the study of smoothness for the moduli space of ‘blah’s."
 - "The deformation theory of an abelian schemes coincides with the deformation theory of its p-divisible group."
+- $p\dash$divisible groups are systems (of finite, flat group schemes) in which each piece is the torsion of the following piece.
 
 
