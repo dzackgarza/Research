@@ -17,4 +17,5 @@ Some slogans:
 - $p\dash$divisible groups are systems (of finite, flat group schemes) in which each piece is the torsion of the following piece.
 - Formal groups: An intermediate step between a lie group and its lie algebra.
 
-
+In global Langlands, one considers moduli spaces of abelian varieties with additional structure (such as Shimura varieties).
+For local Langlands, the corresponding analog are deformation spaces of abelian varieties.
