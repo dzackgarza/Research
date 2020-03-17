@@ -6,3 +6,4 @@
 - Peter J. HiltonUrs Stammbach, A Course in Homological Algebra (via Dan Nakano)
 - Pramod Achar, Unreleased Geometric Representation Theory Text
 - Eisenbud and Harris, [The Geometry of Schemes](https://www.maths.ed.ac.uk/~v1ranick/papers/eisenbudharris.pdf)
+- Mumford, The Red Book of Varieties and Schemes
