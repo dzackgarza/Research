@@ -1,4 +1,8 @@
 - "Type" of a quadratic form
+- Freudenthal Suspension Theorem
+- Brown Representability
+- Bott Periodicity
+- $h\dash$cobordisms
 - Dirichlet test
 - Summation by parts
 - $A_\infty$
