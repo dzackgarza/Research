@@ -15,3 +15,4 @@
 - Nicolas Libedinsky, [Gentle introduction to Soergel bimodules I: The basics](https://arxiv.org/abs/1702.00039)
 - Valenza, Fourier Analysis on Number Fields
 - Weil, Basic Number Theory
+- Silverman, The Arithmetic of Elliptic Curves
