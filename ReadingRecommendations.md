@@ -12,3 +12,4 @@
 - Osvath and Szabo, [Grid Homology for Knots and Links](https://web.math.princeton.edu/~petero/GridHomologyBook.pdf)
 - Frank Warner, Foundations of Differentiable Manifolds and Lie Groups (?)
 - Guillemin?, Stable Mappings and Their Singularities
+- Nicolas Libedinsky, [Gentle introduction to Soergel bimodules I: The basics](https://arxiv.org/abs/1702.00039)
