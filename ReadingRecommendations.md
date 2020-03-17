@@ -18,3 +18,5 @@
 - Silverman, The Arithmetic of Elliptic Curves
 - Taylor, Complex Analysis
 - Simon, Complex Analysis
+- Hartshorne
+- Rick Miranda, Algebraic Curves and Riemann Surfaces
