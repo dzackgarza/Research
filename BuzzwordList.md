@@ -47,6 +47,7 @@
 - Etale cohomology
 - Frobenius
 - $L$ functions
+- Serre twists
 
 # Priority 3
 - TQFTs
