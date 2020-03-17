@@ -11,3 +11,4 @@
 - Mumford, The Red Book of Varieties and Schemes
 - Osvath and Szabo, [Grid Homology for Knots and Links](https://web.math.princeton.edu/~petero/GridHomologyBook.pdf)
 - Frank Warner, Foundations of Differentiable Manifolds and Lie Groups (?)
+- Guillemin?, Stable Mappings and Their Singularities
