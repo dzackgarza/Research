@@ -1,4 +1,8 @@
 # Priortity S
+- Riemann-Roch
+- Divisors
+- Jacobian of a curve
+- Picard group (e.g. of $L_{K(n)}S^O$)
 - Trivial, canonical, universal bundles
 - Resolutions
 - Profinite groups
@@ -7,14 +11,9 @@
 - Limits, colimits
 - Localization
 - $p\dash$completions
-- Riemann-Roch
 - Abelian varieties
 - Uniformization
 - Classification of surfaces
-- Divisors
-- Jacobian of a curve
-- Lie algebras
-- Picard group (e.g. of $L_{K(n)}S^O$)
 - Branched surfaces
 
 # Priority 1
