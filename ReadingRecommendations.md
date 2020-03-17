@@ -20,3 +20,4 @@
 - Simon, Complex Analysis
 - Hartshorne
 - Rick Miranda, Algebraic Curves and Riemann Surfaces
+- Voison, Hodge Theory and Complex Algebraic Geometry I
