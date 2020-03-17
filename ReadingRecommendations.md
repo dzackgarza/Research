@@ -3,9 +3,11 @@
 - Arnold, Methods in Classical Mechanics
 - Pollack, Differential Topology
 - Milnor, Morse Theory
+- Milnor, Lectures on h-Cobordism
 - McDuff, Introduction to Symplectic Topology
 - Peter J. HiltonUrs Stammbach, A Course in Homological Algebra (via Dan Nakano)
 - Pramod Achar, Unreleased Geometric Representation Theory Text
 - Eisenbud and Harris, [The Geometry of Schemes](https://www.maths.ed.ac.uk/~v1ranick/papers/eisenbudharris.pdf)
 - Mumford, The Red Book of Varieties and Schemes
 - Osvath and Szabo, [Grid Homology for Knots and Links](https://web.math.princeton.edu/~petero/GridHomologyBook.pdf)
+- Frank Warner, Foundations of Differentiable Manifolds and Lie Groups (?)
