@@ -7,3 +7,4 @@
 - Pramod Achar, Unreleased Geometric Representation Theory Text
 - Eisenbud and Harris, [The Geometry of Schemes](https://www.maths.ed.ac.uk/~v1ranick/papers/eisenbudharris.pdf)
 - Mumford, The Red Book of Varieties and Schemes
+- Osvath and Szabo, [Grid Homology for Knots and Links](https://web.math.princeton.edu/~petero/GridHomologyBook.pdf)
