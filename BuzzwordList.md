@@ -1,8 +1,11 @@
+- Hodge Theory
+- Hodge decomposition
+- Hodge numbers
+- $h\dash$cobordisms
 - "Type" of a quadratic form
 - Freudenthal Suspension Theorem
 - Brown Representability
 - Bott Periodicity
-- $h\dash$cobordisms
 - Dirichlet test
 - Summation by parts
 - $A_\infty$
@@ -67,9 +70,6 @@
 - Gerbes
 - Get a more precise understanding of $n\dash$categories
 - Haar measure
-- Hodge Theory
-- Hodge decomposition
-- Hodge numbers
 - Homotopy and derived categories
 	- Sort out weak equivalences vs homotopy equivalences vs quasi-isomorphisms etc
 - Homotopy limit/colimit
