@@ -22,3 +22,4 @@
 - Rick Miranda, Algebraic Curves and Riemann Surfaces
 - Voison, Hodge Theory and Complex Algebraic Geometry I
 - Carlson, [Period Mappings and Period Domains](https://www-fourier.ujf-grenoble.fr/~peters/Books/PeriodBook.f/SecondEdition/PerBook.pdf)
+- Eliashberg, From Stein to Weinstein and Back
