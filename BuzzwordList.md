@@ -1,4 +1,6 @@
 - "Type" of a quadratic form
+- Dirichlet test
+- Summation by parts
 - $A_\infty$
   - Comes in Heegaard-Floer
 - $E_\infty$
@@ -206,7 +208,7 @@
 - TQFTs
 - Gauge theories
 - Configuration spaces
-- Steenrod operations 
+- Steenrod operations
 - Braid groups
 -  Congruence subgroups
 -  Fibre homotopy equivalence
