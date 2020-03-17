@@ -1,4 +1,8 @@
+- Eliashberg, From Stein to Weinstein and Back
 - Folland, Analysis
+- Hartshorne
+- Silverman, The Arithmetic of Elliptic Curves
+- Weil, Basic Number Theory
 - Cannas da Silva, [Lectures on Symplectic Geometry](https://people.math.ethz.ch/~acannas/Papers/lsg.pdf)
 - Arnold, Methods in Classical Mechanics
 - Pollack, Differential Topology
@@ -14,12 +18,8 @@
 - Guillemin?, Stable Mappings and Their Singularities
 - Nicolas Libedinsky, [Gentle introduction to Soergel bimodules I: The basics](https://arxiv.org/abs/1702.00039)
 - Valenza, Fourier Analysis on Number Fields
-- Weil, Basic Number Theory
-- Silverman, The Arithmetic of Elliptic Curves
 - Taylor, Complex Analysis
 - Simon, Complex Analysis
-- Hartshorne
 - Rick Miranda, Algebraic Curves and Riemann Surfaces
 - Voison, Hodge Theory and Complex Algebraic Geometry I
 - Carlson, [Period Mappings and Period Domains](https://www-fourier.ujf-grenoble.fr/~peters/Books/PeriodBook.f/SecondEdition/PerBook.pdf)
-- Eliashberg, From Stein to Weinstein and Back
