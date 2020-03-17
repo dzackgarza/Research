@@ -1,29 +1,33 @@
 # Priortity S
+- Trivial, canonical, universal bundles
+- Resolutions
+- Profinite groups
+- Pushouts, pullbacks
+- Normal bundle
+- Limits, colimits
 - Localization
 - $p\dash$completions
 - Riemann-Roch
 - Abelian varieties
 - Uniformization
 - Classification of surfaces
+- Divisors
+- Jacobian of a curve
+- Lie algebras
+- Picard group (e.g. of $L_{K(n)}S^O$)
+- Branched surfaces
 
 # Priority 1
-- Divisors
+- Hodge Theory
+- **$K\dash$theory**
 - Nilpotence
-- Picard group (e.g. of $L_{K(n)}S^O$)
 - Schemes
-- Branched surfaces
 - Formal group laws
 - Formal Groups
-	- Where they come up, what they're used for, why important
-- Jacobian of a curve
 - Floer homology
-- Lie algebras
-- **$K\dash$theory**
-- Hodge Theory
 - Hodge decomposition
 - Hodge numbers
 - $h\dash$cobordisms
-- $K\dash$theory
 - Stein Manifolds
 - Weinstein Manifolds
 - Complex structures, almost-complex structures
@@ -31,10 +35,9 @@
 - Deformation theory
 - Moduli spaces
 - Moduli stacks
-  - Coarse moduli space
-    - Somehow a nicer version of a stack where torsion in the automorphism groups aren't messing things up
+- Coarse moduli space
 
-# Priority 2 
+# Priority 2
 - $K3$ surfaces
 - Kahler Manifolds
 - Calabi-Yau manifolds
@@ -57,7 +60,6 @@
 - Brauer groups
 - Classifying orbifolds
 - Closed points of a scheme
-- Colimits
 - Descent
 - Elliptic cohomology
 - Equivalence of categories
@@ -73,7 +75,6 @@
 - Index theory
 - Isotropy group
 - Langlands and Geometric Langlands
-- Limits, colimits
 - Linearly independent sections
 - Local fields
 - Local systems
@@ -82,7 +83,6 @@
 	- Particularly infinite loop spaces, and why they're important
 - Lubin-Tate spaces
 - Mapping class group: orientation-preserving diffeomorphisms / id component
-- Massey products
 - Laplace–Beltrami operator
 - Curvature
 - Gaussian Curvature
@@ -91,44 +91,28 @@
 - Mirror Symmetry
 - Nishida's Theorem:
 	- The $S^1$ spectrum is some kind of "thickening" of $\ZZ$?
-- Normal bundle
 - Orbifold
 - Perfect fields
-- Profinite groups
-- Pushouts, pullbacks
 - Quasi-coherent sheaves over a scheme
 - Regular representations
 - Representation Stability
-- Resolutions
 - Sard's Theorem
 - Sectional curvature
 	- Of a Riemannian manifold
 - Seiberg-Witten theory
-- Simplicial sets
-	- Find some results that actually work/compute with these
 - Smash product
 - Smooth projective curves
 - Spf: Formal spectrum
 - Stacks
-- Steenrod Algebra
-- Suspension
-- Symmetric monoidal categories
 - Symplectic manifolds
 - Symplectic geometry
 	- Lagrangian submanifolds
 - Tate cohomology
 - Tate Twist
 - Teichmüller space: space of complex structures
-- The $J$-homomorphism
-	- [See beginning of Hopkins talk](https://www.youtube.com/watch?v=Ix4pg87LKVk)
-- The Adams Spectral Sequence
-- The chromatic spectral sequence
-	- Is this similar to fracture theorems in stable homotopy..?
-- The cobordism hypothesis
 - Etale fundamental group
 - $\ell\dash$adic cohomology
 - Topological modular forms
-- Trivial, canonical, universal bundles
 - Tubular neighborhoods
 - The limit definitions of pullbacks/pushouts and products/coproducts
 - Try to write a composition series as an exact sequence
@@ -146,12 +130,11 @@
 - Crystalline cohomology
 - THH
 - Hopf algebras
-- Topological modular forms
 - Configuration spaces
 - Steenrod operations
 - Braid groups
--  Congruence subgroups
--  Fuchsian group
+- Congruence subgroups
+- Fuchsian group
 
 # Priority z
 - Characteristic Classes (see Milnor)
@@ -159,7 +142,6 @@
 	- Euler class (or Euler bundle..? Find in old email)
 	- Mapping cylinder/cone
 	- Stiefel-Whitney class
-- Chromatic homotopy theory
 
 
 # Quals
@@ -167,6 +149,7 @@
 - Summation by parts
 
 # Purely Leisure
+- Chromatic homotopy theory
 - Freudenthal Suspension Theorem
 - Brown Representability
 - Bott Periodicity
@@ -177,7 +160,6 @@
 - $E_\infty$
 - $E_n$ rings
 - $H\dash$spaces
-
 - $\infty\dash$categories
 - **Spectra**
 	- Ring spectra
@@ -225,4 +207,16 @@
 	- $E$ behaves like a local ring and $K$ its residue fields
 - Morava E-Theory
 - Motivate and understand phantom maps
+- Massey products
+- Simplicial sets
+	- Find some results that actually work/compute with these
+- Steenrod Algebra
+- Suspension
+- Symmetric monoidal categories
+- The $J$-homomorphism
+	- [See beginning of Hopkins talk](https://www.youtube.com/watch?v=Ix4pg87LKVk)
+- The Adams Spectral Sequence
+- The chromatic spectral sequence
+	- Is this similar to fracture theorems in stable homotopy..?
+- The cobordism hypothesis
 - Quillen equivalence
