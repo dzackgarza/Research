@@ -16,3 +16,5 @@
 - Valenza, Fourier Analysis on Number Fields
 - Weil, Basic Number Theory
 - Silverman, The Arithmetic of Elliptic Curves
+- Taylor, Complex Analysis
+- Simon, Complex Analysis
