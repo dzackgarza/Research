@@ -22,3 +22,5 @@ title: "Open Conjectures"
   - Analytic?
 - Thom conjecture
 - Kervaire Invariant One Problem
+- Arnold Conjecture (Symplectic)
+- Weinstein Conjecture (Contact)
