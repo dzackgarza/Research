@@ -1,4 +1,4 @@
-# Priortity S
+# Priority S
 - Riemann-Roch
 - Divisors
 - Jacobian of a curve
@@ -16,6 +16,8 @@
 - Classification of surfaces
 - Branched surfaces
 - Archimedean fields
+- Algebraic and Projective Varieties
+- Smooth varieties
 
 # Priority 1
 - Hodge Theory
