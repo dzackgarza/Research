@@ -1,3 +1,5 @@
+- Lee, Smooth Manifolds
+  - Skip chapters 4, 5, 25, 26, 30
 - Eliashberg, From Stein to Weinstein and Back
 - Folland, Analysis
 - Hartshorne
