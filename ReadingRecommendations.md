@@ -1,14 +1,14 @@
 - Lee, Smooth Manifolds
   - Skip chapters 4, 5, 25, 26, 30
 - Cannas da Silva, [Lectures on Symplectic Geometry](https://people.math.ethz.ch/~acannas/Papers/lsg.pdf)
-- Eliashberg, From Stein to Weinstein and Back
 - Folland, Analysis
-- Hartshorne
+- Eliashberg, From Stein to Weinstein and Back
+- Milnor, Morse Theory
 - Silverman, The Arithmetic of Elliptic Curves
+- Hartshorne
 - Weil, Basic Number Theory
 - Arnold, Methods in Classical Mechanics
 - Pollack, Differential Topology
-- Milnor, Morse Theory
 - Milnor, Lectures on h-Cobordism
 - McDuff, Introduction to Symplectic Topology
 - Peter J. HiltonUrs Stammbach, A Course in Homological Algebra (via Dan Nakano)
