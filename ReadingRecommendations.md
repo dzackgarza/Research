@@ -1,6 +1,6 @@
 - Lee, Smooth Manifolds
-  - Skip chapters 4, 5, 25, 26, 30
 - Cannas da Silva, [Lectures on Symplectic Geometry](https://people.math.ethz.ch/~acannas/Papers/lsg.pdf)
+  - Skip chapters 4, 5, 25, 26, 30
 - Folland, Analysis
 - Eliashberg, From Stein to Weinstein and Back
 - Milnor, Morse Theory
