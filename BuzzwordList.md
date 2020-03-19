@@ -1,5 +1,6 @@
 # Priority S
 - Riemann-Roch
+- Base change
 - Divisors
 - Jacobian of a curve
 - Picard group (e.g. of $L_{K(n)}S^O$)
