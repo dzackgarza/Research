@@ -22,6 +22,7 @@
 - Smooth varieties
 
 # Priority 1
+- Proper varieties
 - Hodge Theory
 - Hodge decomposition
 - Hodge numbers
