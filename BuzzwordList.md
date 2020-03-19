@@ -1,5 +1,6 @@
 # Priority S
 - Riemann-Roch
+- Structure Sheaf
 - Base change
 - Divisors
 - Jacobian of a curve
