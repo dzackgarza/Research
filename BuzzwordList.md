@@ -21,14 +21,15 @@
 
 # Priority 1
 - Hodge Theory
+- Hodge decomposition
+- Hodge numbers
+- Hodge Weights
 - **$K\dash$theory**
 - Nilpotence
 - Schemes
 - Formal group laws
 - Formal Groups
 - Floer homology
-- Hodge decomposition
-- Hodge numbers
 - $h\dash$cobordisms
 - Stein Manifolds
 - Weinstein Manifolds
