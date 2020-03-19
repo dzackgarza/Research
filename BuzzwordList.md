@@ -50,6 +50,7 @@
 - Frobenius
 - $L$ functions
 - Serre twists
+- Hypercohomology
 
 # Priority 3
 - TQFTs
