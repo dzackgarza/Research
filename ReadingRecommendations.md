@@ -1,11 +1,11 @@
 - Lee, Smooth Manifolds
   - Skip chapters 4, 5, 25, 26, 30
+- Cannas da Silva, [Lectures on Symplectic Geometry](https://people.math.ethz.ch/~acannas/Papers/lsg.pdf)
 - Eliashberg, From Stein to Weinstein and Back
 - Folland, Analysis
 - Hartshorne
 - Silverman, The Arithmetic of Elliptic Curves
 - Weil, Basic Number Theory
-- Cannas da Silva, [Lectures on Symplectic Geometry](https://people.math.ethz.ch/~acannas/Papers/lsg.pdf)
 - Arnold, Methods in Classical Mechanics
 - Pollack, Differential Topology
 - Milnor, Morse Theory
