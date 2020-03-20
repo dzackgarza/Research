@@ -20,6 +20,7 @@
 - Archimedean fields
 - Algebraic and Projective Varieties
 - Smooth varieties
+- Generic and special fibers
 
 # Priority 1
 - Kahler Differentials
