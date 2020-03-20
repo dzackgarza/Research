@@ -22,6 +22,7 @@
 - Smooth varieties
 
 # Priority 1
+- Kahler Differentials
 - Proper varieties
 - Hodge Theory
 - Hodge decomposition
