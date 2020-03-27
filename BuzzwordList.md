@@ -45,6 +45,8 @@
 - Moduli stacks
 - Coarse moduli space
 - Gromov-Witten Theory
+- Seiberg-Witten invariants
+- Donaldson-Thomas invariants
 
 # Priority 2
 - $K3$ surfaces
