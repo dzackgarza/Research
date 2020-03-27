@@ -44,6 +44,7 @@
 - Moduli spaces
 - Moduli stacks
 - Coarse moduli space
+- Gromov-Witten Theory
 
 # Priority 2
 - $K3$ surfaces
