@@ -1,8 +1,8 @@
 # Priority S
+- Divisors
 - Riemann-Roch
 - Structure Sheaf
 - Base change
-- Divisors
 - Jacobian of a curve
 - Picard group (e.g. of $L_{K(n)}S^O$)
 - Trivial, canonical, universal bundles
