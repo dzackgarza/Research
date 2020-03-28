@@ -5,7 +5,7 @@ title: "Open Conjectures"
 
 - Hodge Conjecture (!)
 - Milnor's conjecture
-- The chromatic redshift conjecture
+- The chromatic **redshift** conjecture
 - The chromatic splitting conjecture
 - Milnor conjecture
 - Novikov conjecture
