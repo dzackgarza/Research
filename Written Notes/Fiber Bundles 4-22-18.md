@@ -8,7 +8,6 @@ However, it also satisfies more conditions - in particular, the condition of _lo
 
 As with fibrations, we can interpret a fiber bundle as "a family of $B$s indexed/parameterized by $F$s", and the general shape data of a fiber bundle is similarly given by
 
-
 \adjustbox{scale=2,center}{%
 	\begin{tikzcd}
 	F \arrow[rr, hook] &  & E \arrow[dd, "\pi", two heads] \\
