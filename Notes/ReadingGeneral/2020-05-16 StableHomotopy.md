@@ -11,3 +11,8 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
 - Analogy:
   - Chain homotopy equivalences for modules $\iff$ homotopy equivalences
   - Quasi-isomorphisms $\iff$ weak homotopy equivalences
+  - Derived category $\iff$ homotopy category of spectra
+  - Projective chain complexes $\iff$ CW spectra
+- Standard examples of spectra:
+  - For any space $X$, $$\Sigma^\infty X \definedas \qty{ X_0 \definedas X \to X_1 \definedas \Sigma X \to X_2 \definedas \Sigma^2 X \to \cdots},$$ yields a functor $\Sigma^\infty:\text{Top} \to \text{PreSpectra}$ with adjoint $\Omega^\infty$ where $X \mapsto X_0$.
+  - $HG \definedas K(G, 0) \mapsvia{\omega_0^*} K(G, 1) \to \cdots$ where we take the adjoint of the homotopy equivalences $\omega_n: K(G, n) \to \OmegaK(G, n+1)$.
