@@ -16,3 +16,6 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
 - Standard examples of spectra:
   - For any space $X$, $$\Sigma^\infty X \definedas \qty{ X_0 \definedas X \to X_1 \definedas \Sigma X \to X_2 \definedas \Sigma^2 X \to \cdots},$$ yields a functor $\Sigma^\infty:\text{Top} \to \text{PreSpectra}$ with adjoint $\Omega^\infty$ where $X \mapsto X_0$.
   - $HG \definedas K(G, 0) \mapsvia{\omega_0^*} K(G, 1) \to \cdots$ where we take the adjoint of the homotopy equivalences $\omega_n: K(G, n) \to \OmegaK(G, n+1)$.
+  - $K\dash$theory, where $K = \qty{\ZZ \cross BU \to U \to \ZZ \cross BU \to U \to \cdots}$ using the equivalences given by 2-fold Bott periodicity.
+  - Real $K\dash$theory $KO = \qty{\ZZ\cross BO \to \cdots}$ using 8-fold Bott periodicity.
+  - Any infinite loop space $X= X_0$, i.e. where $X \homotopic \Omega^k X_k$, then take $X_0 \to X_1 \to \cdots$.
