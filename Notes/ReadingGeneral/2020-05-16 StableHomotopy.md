@@ -52,3 +52,11 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
   - $MO_n$ is the associated Thom space
 - Cohomology operation of degree $k$: a natural transformation $H^*(\wait; \ZZ/2\ZZ) \to H^{*+k}(\wait; \ZZ/2\ZZ)$. Stable if if commutes with the suspension isomorphism $H^*(\wait) \cong H^{*+1}(\Sigma(\wait))$.
   - Example: Bockstein morphism, take $0\to A \to B \to C \to 0$ in abelian groups to get a LES, the connecting morphism $H^*(\wait; \ZZ/2\ZZ) \to H^{*+1}(\wait, \ZZ/2\ZZ)$ is $\text{Sq}^1$, a stable operation of degree 1.
+- Can for $\RP^2$ as a pushout:
+  \begin{center}
+  \begin{tikzcd}
+  S^1 \arrow[dd] \arrow[rr] &  & D^2 \arrow[dd, dashed] \\
+                            &  &                        \\
+  S^1 \arrow[rr, dashed]    &  & \RP^2                 
+  \end{tikzcd}
+  \end{center}
