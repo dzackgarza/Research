@@ -48,3 +48,4 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
   - Take the suspension spectrum to get the Thom spectrum.
 - Virtual bundle: a formal difference of two bundles over a common base $B$
 - Model for $BO_n = \colim_{\to k} \Gr(n, \RR^k)$
+  - Can take the universal bundle $$E_n = \theset{(V, \vector x) \in G_n \cross \RR^\infty \suchthat \vector x \in V \in G_n  } \to BO_n$$
