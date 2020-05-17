@@ -75,3 +75,5 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
   - Axiomatically describe squares as $\text{Sq}^k: H^*(\wait; \ZZ/2\ZZ) \to H^{*+k}(\wait; \ZZ/2\ZZ)$.
 
 - Adams Spectral Sequence: in good cases, $$E_2^{s, t} = \ext_{\mca}^{s, t}(H^*(X), \ZZ/2\ZZ) \implies \qty{\pi_{t-s}X}^{\smash}_2$$
+- Hurewicz morphism: send a map $f: S^k \to X$ to its induced map on cohomology.
+- Generalized EM spectrum: $Z \homotopic HV \homotopic \bigvee_{i\in I} \Sigma^i H\ZZ/2\ZZ$ where $V$ is a graded $\ZZ/2\ZZ\dash$vector space which is finite in every degree.
