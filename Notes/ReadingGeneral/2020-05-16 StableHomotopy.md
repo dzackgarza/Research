@@ -60,5 +60,6 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
   S^1 \arrow[rr, dashed]    &  & \RP^2                 
   \end{tikzcd}
   \end{center}
-- Steenrod algebra $\mca$: graded, non-commutative $\FF_2\dash$algebra generated in degree $k$ by stable cohomology operations of degree $k$, multiplication given by composition of operations
+- Steenrod algebra $\mca$: graded, non-commutative (cocommutative Hopf) $\FF_2\dash$algebra generated in degree $k$ by stable cohomology operations of degree $k$, multiplication given by composition of operations
   - Use Yoneda to show $\mca \cong H\ZZ/2\ZZ^*(H\ZZ/2\ZZ)$.
+  - Axiomatically describe squares as $\text{Sq}^k: H^*(\wait; \ZZ/2\ZZ) \to H^{*+k}(\wait; \ZZ/2\ZZ)$.
