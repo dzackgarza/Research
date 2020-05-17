@@ -21,3 +21,5 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
   - Any infinite loop space $X= X_0$, i.e. where $X \homotopic \Omega^k X_k$, then take $X_0 \to X_1 \to \cdots$.
 - Coproduct in $\text{Top}_*$ is wedge
 - $\text{Top}_*$ is a closed symmetric monoidal category, where the symmetric monoidal product is the smash product $A \smash B$ for which there is a homeomorphism $\hom_\top(A\smash B, C) \cong \hom_\top(A, \hom_\top(B, C))$.
+- Alternate definition of hoTop/DTop as localizing equivalence: initial category receiving a functor which sends blah equivalences to isomorphisms 
+- The "usual" category of spectra is the homotopy category of spectra. Triangulated with shift functor $\Sigma(\wait)$ with inverse $\Omega(\wait)$.
