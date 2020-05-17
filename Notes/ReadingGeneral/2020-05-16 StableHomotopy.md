@@ -27,3 +27,6 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
 - The sphere spectrum $S^0$ is the unit for the symmetric monoidal structure, i.e. $S^0 \smash X \homotopic X, F(S^0, X) \homotopic X$.
 - Pushout and pullback diagrams coincide, exact triangles $X\to Y \to Z \to \Sigma X$ are equivalently fiber and cofiber sequences.
   - $X\to Y$ is null-homotopic iff $Z \homotopic Y \vee \Sigma X$.
+- Spectra as generalized homology theories: take coproducts to direct sums and exact triangles to exact sequences
+  - For $E$ a spectrum, the homology theory is $E^n(X) = \pi_n(E\smash X)$.
+  - For $E = HG$, $HG^\wait (A) = \tilde H^\wait (X; G) \cong HG^\wait(\Sigma^\infty X)$.
