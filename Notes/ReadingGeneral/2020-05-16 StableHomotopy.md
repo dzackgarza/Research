@@ -49,3 +49,6 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
 - Virtual bundle: a formal difference of two bundles over a common base $B$
 - Model for $BO_n = \colim_{\to k} \Gr(n, \RR^k)$
   - Can take the universal bundle $$E_n = \theset{(V, \vector x) \in G_n \cross \RR^\infty \suchthat \vector x \in V \in G_n  } \to BO_n$$
+  - $MO_n$ is the associated Thom space
+- Cohomology operation of degree $k$: a natural transformation $H^*(\wait; \ZZ/2\ZZ) \to H^{*+k}(\wait; \ZZ/2\ZZ)$. Stable if if commutes with the suspension isomorphism $H^*(\wait) \cong H^{*+1}(\Sigma(\wait))$.
+  - Example: Bockstein morphism, take $0\to A \to B \to C \to 0$ in abelian groups to get a LES, the connecting morphism $H^*(\wait; \ZZ/2\ZZ) \to H^{*+1}(\wait, \ZZ/2\ZZ)$ is $\text{Sq}^1$, a stable operation of degree 1.
