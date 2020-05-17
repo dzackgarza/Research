@@ -78,3 +78,4 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
 - Hurewicz morphism: send a map $f: S^k \to X$ to its induced map on cohomology.
 - Generalized EM spectrum: $Z \homotopic HV \homotopic \bigvee_{i\in I} \Sigma^i H\ZZ/2\ZZ$ where $V$ is a graded $\ZZ/2\ZZ\dash$vector space which is finite in every degree.
 - Idea: for $X$ a suspension spectrum of a CW complex with finitely many cells in each dimension, resolve it (Adams resolution) by a sequence of spectra $X_n$ admitting maps to generalized EM spectra.
+  - For such spectra, the Adams SS computes the 2-completion of the homotopy groups of $X$ 
