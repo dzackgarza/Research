@@ -60,6 +60,7 @@
 - $L$ functions
 - Serre twists
 - Hypercohomology
+- Exceptional divisor
 
 # Priority 3
 - TQFTs
@@ -78,7 +79,6 @@
 - Equivalence of categories
 - Equivariant Homology
 	- What were Deligne's contributions?
-- Exceptional divisor
 - Foliation
 - Fukaya categories
 - Generalized Poincare
