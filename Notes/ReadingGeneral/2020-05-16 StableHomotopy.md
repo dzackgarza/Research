@@ -25,3 +25,5 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
 - Alternate definition of hoTop/DTop as localizing equivalence: initial category receiving a functor which sends blah equivalences to isomorphisms 
 - The "usual" category of spectra ios the homotopy category of spectra. Triangulated with shift functor $\Sigma(\wait)$ with inverse $\Omega(\wait)$.
 - The sphere spectrum $S^0$ is the unit for the symmetric monoidal structure, i.e. $S^0 \smash X \homotopic X, F(S^0, X) \homotopic X$.
+- Pushout and pullback diagrams coincide, exact triangles $X\to Y \to Z \to \Sigma X$ are equivalently fiber and cofiber sequences.
+  - $X\to Y$ is null-homotopic iff $Z \homotopic Y \vee \Sigma X$.
