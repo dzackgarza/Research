@@ -31,3 +31,15 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
   - For $E$ a spectrum, the homology theory is $E^n(X) = \pi_n(E\smash X)$.
   - For $E = HG$, $HG^\wait (A) = \tilde H^\wait (X; G) \cong HG^\wait(\Sigma^\infty X)$.
 - Homotopy groups are well-defined for any spectrum, can be nonzero in negative degrees
+- Connective spectra: related to stages of Whitehead tower
+- Ring spectra: cohomology theories have a multiplicative structure, gives rise to maps $H\ZZ \smash H\ZZ \to H\ZZ$. For any spectrum $R$ with
+  - A multiplication map $R\smash R \to R$
+  - A unit map $S^0 \to R$
+  - Require that this diagram commutes:
+  \begin{center}
+  \begin{tikzcd}
+  S^0 \smash R \ar[r]\ar[dr, "\homotopic"] & R\smash R\ar[d] & \ar[l] R\smash S\ar[dl, "\homotopic"] \\
+  & R &
+  \end{tikzcd}
+  \end{center}
+  - Commutativity: require that the swap map commutes with multiplication
