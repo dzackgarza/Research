@@ -30,3 +30,4 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
 - Spectra as generalized homology theories: take coproducts to direct sums and exact triangles to exact sequences
   - For $E$ a spectrum, the homology theory is $E^n(X) = \pi_n(E\smash X)$.
   - For $E = HG$, $HG^\wait (A) = \tilde H^\wait (X; G) \cong HG^\wait(\Sigma^\infty X)$.
+- Homotopy groups are well-defined for any spectrum, can be nonzero in negative degrees
