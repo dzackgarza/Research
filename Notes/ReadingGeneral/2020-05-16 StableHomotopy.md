@@ -43,3 +43,8 @@ Paper: [A Guide for Computing Stable Homotopy Groups](https://arxiv.org/abs/1801
   \end{tikzcd}
   \end{center}
   - Commutativity: require that the swap map commutes with multiplication
+
+- Thom spectra: let $\nu: E\to B$ be a real vector bundle over a space, take 1-point compactification of fibers to get the sphere bundle $\text{Sph}(E) \to B$, take the section $s(b) = \infty$ in each fiber, and define the Thom space as $B^\nu = \text{Sph}(E)/s(B)$.
+  - Take the suspension spectrum to get the Thom spectrum.
+- Virtual bundle: a formal difference of two bundles over a common base $B$
+- Model for $BO_n = \colim_{\to k} \Gr(n, \RR^k)$
