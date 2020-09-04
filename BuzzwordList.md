@@ -21,6 +21,7 @@
 - Algebraic and Projective Varieties
 - Smooth varieties
 - Generic and special fibers
+- Faltings Theorem
 
 # Priority 1
 - Kahler Differentials
@@ -47,6 +48,7 @@
 - Gromov-Witten Theory
 - Seiberg-Witten invariants
 - Donaldson-Thomas invariants
+- Canonical sheaf
 
 # Priority 2
 - $K3$ surfaces
