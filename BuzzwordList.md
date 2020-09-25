@@ -22,6 +22,7 @@
 - Smooth varieties
 - Generic and special fibers
 - Faltings Theorem
+- Hyperelliptic
 
 # Priority 1
 - Kahler Differentials
