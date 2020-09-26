@@ -239,3 +239,6 @@
 - Cartesian Closed categories
 - Monoidal categories
 - Enriched categories
+- $H\dash$spaces
+- Artin reciprocity.
+- Hecke character
