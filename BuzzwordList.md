@@ -171,11 +171,11 @@
 - Bott Periodicity
 -  Fibre homotopy equivalence
 -  Thom space
-- $A_\infty$
+- $A_\infty$ spaces
   - Comes in Heegaard-Floer
+- $H\dash$spaces
 - $E_\infty$
 - $E_n$ rings
-- $H\dash$spaces
 - $\infty\dash$categories
 - **Spectra**
 	- Ring spectra
