@@ -236,3 +236,6 @@
 	- Is this similar to fracture theorems in stable homotopy..?
 - The cobordism hypothesis
 - Quillen equivalence
+- Cartesian Closed categories
+- Monoidal categories
+- Enriched categories
