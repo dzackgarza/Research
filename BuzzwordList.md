@@ -202,7 +202,7 @@
 - Equivariant topology
 - Orthogonal spectra
 - Cohomology operations
-- The unit of an adjunction
+- The unit and counit of an adjunction
 - Monad, and its uses within Topology
 - Kan extensions
 - Kan complex
