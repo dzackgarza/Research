@@ -1,5 +1,7 @@
 # Notes on Topology Journals
 
+[Dan Ikasen's list of journals and editors](https://s.wayne.edu/isaksen/algebraic-topology-journals/)
+
 The most prestigious journals in the field.
 
 1. First
