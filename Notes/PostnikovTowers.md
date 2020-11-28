@@ -120,8 +120,8 @@ I \injects M \surjects S^1
 $$
 
 \begin{tikzcd}
- \ar[r] & \ar[d] \\
- &  \\
+I \ar[r, hook] & \RR \ar[d, ] \\
+ &  S^1 \\
 \end{tikzcd}
 
 which is a line bundle over the circle. Note that locally we do have $M \cong S^1 \cross I$, but since $M$
