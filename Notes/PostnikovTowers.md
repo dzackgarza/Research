@@ -19,7 +19,7 @@ One critical ingredient is the computation of $\pi_*(X)$.
 
 ## Homotopy Groups
 
-So let's reduce to this one piece of the problem: suppose we are given a pointed topological space $(X, x_0)$ (where $x_0$ is some choice of a basepoint) and wish to compute the graded group structure of the homotopy groups
+So let's reduce to this one piece of the problem: suppose we are given a pointed topological space $(X, x_0)$ (where $x_0$ is some choice of a basepoint) and we wish to compute the graded group structure of the homotopy groups
 \[
 \pi_*(X) \da \bigoplus_{j=1}^\infty \pi(X; x_0)
 \]
