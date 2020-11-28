@@ -14,7 +14,7 @@ Similarly, in the homotopy category of topological spaces $\hoTop$, we identify$
 We start off with a basic question:
 
 :::{.question}
-Given a category $\mathcal{C}$, how much data is needed
+Given a category $\mathcal{C}$, how much data about an object $X$ is needed to uniquely specify its $\mathcal{C}\dash$type?
 :::
 
 
