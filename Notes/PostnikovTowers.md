@@ -7,7 +7,7 @@ We start with a very general problem: suppose we are given a pointed topological
 \pi_*(X) \da \bigoplus_{j=1}^\infty \pi(X; x_0)
 \]
 
-Since this construction is functorial, any homeomorphism $f \in \hom_{\Top}(X, X')$ will induce a homotopy equivalence $f_* \in \hom_{\hotop}(X, X')$: an isomorphism $\pi_*(X) \cong \pi_*(X')$ of graded groups, so this provides some invariant of homeomorphism types of spaces.
+Since this construction is functorial, any homeomorphism $f \in \hom_{\Top}(X, X')$ will induce a homotopy equivalence $f_*^h \in \hom_{\hotop}(X, X')$ and an isomorphism $f_* \in \hom_{\Grp}( \pi_*(X), \pi_*(X'))$ of graded groups, so this provides some invariant of homeomorphism types of spaces.
 However, we should be careful to note that $\pi_*$ is not a *complete* invariant of the topological type of $X$ -- that is, we can generally construct spaces $X'$ that are homotopy-equivalent to $X$ but not *homeomorphic* to $X$.
 They will however provide partial information that will allow us to distinguish spaces that are not even homotopy-equivalent. 
 
