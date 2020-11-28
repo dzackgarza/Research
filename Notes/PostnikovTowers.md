@@ -54,6 +54,8 @@ we have many nice tools and theorems that specifically work for CW complexes.
 So we implicitly work in this subcategory from here onward.
 The very first thing we'll do is replace $X$ with a CW complex $\tilde X$ that is homotopy-equivalent to $X$, and we'll immediately abuse notation by just writing $X$ for $\tilde X$ everywhere.
 
+## Eilenberg-MacLane Spaces: The Atoms of Homotopy Theory
+
 For any group $G$, suppose for a moment that there existed a space $K(G,n)$ (where $n$ is a natural numbers) satisfying
 $$
 \pi_i(K(G,n)) = \begin{cases}
@@ -67,7 +69,8 @@ dimension. We will show later that not only does such a space exist, and can be 
 relatively straightforward manner, but also that it is unique up to homotopy-equivalence, and are
 thus referred to as *Eilenberg-MacLane spaces*.
 
-# The Atoms of Homotopy Theory
+## Assembling the Atoms
+
 For the moment, let's focus on one particular degree on homotopy groups, say $G = \pi_i(X)$.
 Note that for our original space, if we make the assumption that
 $G$ is finitely generated, we can appeal to the classification of (finitely generated) abelian groups and write
@@ -89,8 +92,10 @@ G_2, & i = k \\
 $$
 then we will be in business. Explicitly, splitting the homotopy groups of $X$ up by degree and writing
 $$\pi_*(X) = \bigoplus_{i=1}^\infty \pi_i(X),$$
-we could construct a space $X'$ that has the exact same homotopy groups $X$ by taking
-$$X' = \bigoplus_{i=1}^\infty K(\pi_i(X), i).$$
+we could assemble a space $X'$ that has the exact same homotopy groups $X$ by taking
+\[
+X' = \bigvee_{i=1}^\infty K(\pi_i(X), i).
+\]
 
 What does this buy us? It's not quite the case that $X' \homotopic X$, since having isomorphic
 homotopy groups alone is insufficient to guarantee homotopy equivalence. A standard counterexample
