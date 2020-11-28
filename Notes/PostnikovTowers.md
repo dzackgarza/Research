@@ -7,9 +7,12 @@ We start with a very general problem: suppose we are given a pointed topological
 \pi_*(X) \da \bigoplus_{j=1}^\infty \pi(X; x_0)
 \]
 
-Since this construction is functorial, any homeomorphism $f \in \hom_{\Top}(X, X')$ will induce a homotopy equivalence $f_*^h \in \hom_{\hoTop}(X, X')$ and an isomorphism $f_* \in \hom_{\gr\Grp}( \pi_*(X), \pi_*(X'))$ of graded groups, so this provides some invariant of homeomorphism types of spaces.
+First recall that a homeomorphism induces a homotopy equivalence, and conversely if two spaces are *not* homotopy equivalent then they can not be homeomorphic.
+To fix some terminology, if we have fixed category $\mathcal{C}$, given an object $X\in \Ob(\mathcal{C})$, 
+
+Since $\pi_*$ is functorial, any homeomorphism $f \in \hom_{\Top}(X, X')$ will induce a homotopy equivalence $f_*^h \in \hom_{\hoTop}(X, X')$ and an isomorphism $f_* \in \hom_{\gr\Grp}( \pi_*(X), \pi_*(X'))$ of graded groups, so this provides some invariant of homeomorphism types of spaces.
 However, we should be careful to note that $\pi_*$ is not a *complete* invariant of the topological type of $X$ -- that is, we can generally construct spaces $X'$ that are homotopy-equivalent to $X$ but not *homeomorphic* to $X$.
-They will however provide partial information that will allow us to distinguish spaces that are not even homotopy-equivalent. 
+They will however provide partial information that will allow us to find obstructions to homotopy equivalences and thus homeomorphisms.
 
 Moreover, in this process we will determine what extra information is needed to in fact obtain a *complete* set of homotopy invariants for $X$.
 In other words, we hope to answer the question of how much data it takes to uniquely specify $[X]$, the homotopy type of $X$.
