@@ -18,6 +18,8 @@ Given a category $\mathcal{C}$, how much data about an object $X$ is needed to u
 :::
 
 
+
+
 Since $\pi_*$ is functorial, any homeomorphism $f \in \hom_{\Top}(X, X')$ will induce a homotopy equivalence $f_*^h \in \hom_{\hoTop}(X, X')$ and an isomorphism $f_* \in \hom_{\gr\Grp}( \pi_*(X), \pi_*(X'))$ of graded groups, so this provides some invariant of homeomorphism types of spaces.
 However, we should be careful to note that $\pi_*$ is not a *complete* invariant of the topological type of $X$ -- that is, we can generally construct spaces $X'$ that are homotopy-equivalent to $X$ but not *homeomorphic* to $X$.
 They will however provide partial information that will allow us to find obstructions to homotopy equivalences and thus homeomorphisms.
