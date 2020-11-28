@@ -1,7 +1,10 @@
+# Postnikov Towers
+
 The point of this note is to reword and fill in some details in [Akhil Mathew's post](https://amathew.wordpress.com/2010/12/06/eilenberg-maclane-spaces/amp/)
 
-We start with a very general problem: suppose we are given a topological space $X$ and wish to compute
-$\pi_*(X)$. Although the homotopy groups themselves are not a complete invariant of $X$ -- that is, we can
+We start with a very general problem: suppose we are given a topological space $X$ and wish to compute the graded group structure of the homotopy groups
+$\pi_*(X) \da \bigoplus_{j=1}^$. 
+Although the homotopy groups themselves are not a complete invariant of $X$ -- that is, we can
 generally construct spaces that are homotopy-equivalent to $X$ but not homeomorphic --
 this will get us partially there. Moreover, in this process we will determine what extra information
 is needed to in fact obtain a *complete* set of invariants for $X$.
@@ -100,7 +103,6 @@ $$
 $$
 such that the following diagram commutes:
 
-$$
 \begin{tikzcd}
 \vdots                                           &  & \vdots \arrow[d, "p_{n+2}"', two heads] \arrow[rrdddd, dotted] &  &   \\
 {K(\pi_{n+2}X, n+3)} \arrow[rr, "k_{n+3}", hook] &  & X_{n+1} \arrow[d, "p_{n+1}"', two heads] \arrow[rrddd]         &  &   \\
@@ -108,7 +110,7 @@ $$
 \vdots                                           &  & \vdots \arrow[d, "p_1"', two heads]                            &  &   \\
 {K(\pi_2X, 3)} \arrow[rr, "k_3", hook]           &  & X_1 \arrow[rr]                                                 &  & X
 \end{tikzcd}
-$$
+
 Note that we have fibrations
 $$K(\pi_{i+1}(X), i+2) \to X_i \to X_{i-1}$$
 for all $i > 1$, and so using our earlier notation we can suggestively write
