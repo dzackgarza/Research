@@ -163,8 +163,12 @@ such that the following diagram commutes:
 \end{tikzcd}
 :::
 
+:::{.remark}
 Note that we have fibrations
-$$K(\pi_{i+1}(X), i+2) \to X_i \to X_{i-1}$$
+\begin{tikzcd}
+K(\pi_{i+1}(X), i+2) \ar[r] & X_i\ar[d] \\
+ &  X_{i-1}\\
+\end{tikzcd}
 for all $i > 1$, and so using our earlier notation we can suggestively write
 $X_i \cong K(\pi_{i+1}(X) \semidirect X_{i-1}$. It also turns out there is a weak
 equivalence $X \to \lim_i X_i$, and so carrying this out inductively allows us to write
@@ -173,6 +177,10 @@ X \homotopic K(\pi_{1}(X),2) \semidirect   K(\pi_{2}(X),3) \semidirect   K(\pi_{
 $$
 
 yielding our "twisted product".
+
+:::
+
+
 
 This spaces can be constructed by a relatively easy process. 
 If $X$ already has the homotopy type of a $CW$ complex, first let $X_i = X^{(i)}$, the $i\dash$skeleton of $X$. 
