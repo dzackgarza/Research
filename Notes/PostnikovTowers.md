@@ -3,7 +3,9 @@
 The point of this note is to reword and fill in some details in [Akhil Mathew's post](https://amathew.wordpress.com/2010/12/06/eilenberg-maclane-spaces/amp/)
 
 We start with a very general problem: suppose we are given a pointed topological space $(X, x_0)$ and wish to compute the graded group structure of the homotopy groups
-$\pi_*(X) \da \bigoplus_{j=1}^\infty \pi(X; x_0)$. 
+\[
+\pi_*(X) \da \bigoplus_{j=1}^\infty \pi(X; x_0)
+\]
 Although the homotopy groups themselves are not a *complete* invariant of the topological type of $X$ -- that is, we can
 generally construct spaces $X'$ that are homotopy-equivalent to $X$ but not *homeomorphic* to $X$ --
 this will provide partial information that will allow us to distinguish spaces. 
@@ -11,9 +13,9 @@ Moreover, in this process we will determine what extra information
 is needed to in fact obtain a *complete* set of homotopy invariants for $X$.
 In other words, we hope to answer the question of how much data it takes to uniquely specify $[X]$, the homotopy type of $X$.
 
+We'll restrict our attention first to the subcategory of CW complexes.
+By the CW approximation theorem, nice enough spaces $X$ admit a weak equivalence to some CW complex, and since many theorems are much nicer for CW complexes than for arbitrary spaces, we implicitly work in this subcategory from here onward.
 The very first thing we'll do is replace $X$ with a CW complex $\tilde X$ that is homotopy-equivalent to $X$, and we'll immediately abuse notation by just writing $X$ for $\tilde X$ everywhere.
-By the CW approximation theorem, we can $X$, and since many theorems are much nicer
-for CW complexes than arbitrary spaces, we implicitly work in this subcategory from here on.
 
 For any group $G$, suppose for a moment that there existed a space $K(G,n)$ (where $n$ is a natural numbers) satisfying
 $$
