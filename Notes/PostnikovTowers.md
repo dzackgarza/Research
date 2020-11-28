@@ -6,11 +6,13 @@ The point of this note is to reword and fill in some details in [Akhil Mathew's 
 
 To fix some terminology, if we have fixed category $\mathcal{C}$, given an object $X\in \Ob(\mathcal{C})$, we define its **$\mathcal{C}\dash$type** $[X]$ to be the set of all objects $X' \in \Ob(\mathcal{C})$ that admit an isomorphism $f\in \hom_{\mathcal{C}}(X, X')$.
 For example, in the category $\mathcal{C} = \Top$ of topological spaces and homeomorphisms, we'll say that $X$ has a unique corresponding *homeomorphism* type, where we identify $X$ with any space it is homeomorphic to.
-Similarly, in the homotopy category of topological spaces $\hoTop$, we identify$X$ with all spaces homotopy-equivalent to $X$.
+Similarly, in the homotopy category of topological spaces $\hoTop$, we identify$X$ with all spaces homotopy-equivalent to $X$, and denote the class of all such spaces $[X]$.
+We often abuse notation, however, and simply write $X$ in places of $[X]$.
+
 We start off with a basic question:
 
 :::{.question}
-Given a category $\mathcal{C}$, how much data about an object $X$ is needed to uniquely specify its $\mathcal{C}\dash$type?
+Given a category $\mathcal{C}$, how much data about an object $X$ is needed to uniquely specify its $\mathcal{C}\dash$type $[X]$? 
 :::
 This data, if it exists, will be referred to as a *complete set of invariants* for $\mathcal{C}$.
 
@@ -27,7 +29,7 @@ So let's reduce to this one piece of the problem: suppose we are given a pointed
 \]
 
 Why do this?
-
+The easy answer is because this is the clearest obstruction to two spaces being homotopy equivalent -- if $\pi_*(X) \neq \pi_*(X')$, then we can possibly have $X\simeq X'$, and thus $[X], [X']$ are two distinct homotopy types.
 
 Since $\pi_*$ is functorial, any homeomorphism $f \in \hom_{\Top}(X, X')$ will induce a homotopy equivalence $f_*^h \in \hom_{\hoTop}(X, X')$ and an isomorphism $f_* \in \hom_{\gr\Grp}( \pi_*(X), \pi_*(X'))$ of graded groups, so this provides some invariant of homeomorphism types of spaces.
 However, we should be careful to note that $\pi_*$ is not a *complete* invariant of the topological type of $X$ -- that is, we can generally construct spaces $X'$ that are homotopy-equivalent to $X$ but not *homeomorphic* to $X$.
