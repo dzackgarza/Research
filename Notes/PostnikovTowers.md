@@ -18,7 +18,7 @@ Given a category $\mathcal{C}$, how much data about an object $X$ is needed to u
 :::
 
 One example that doesn't admit an easy answer is $\mathcal{C} = \Top$, where I'm not sure if there are any clear results along these lines.
-A slightly more tractable example is $\mathcal{C} = \hoTop$, where it will turn out 
+A slightly more tractable example is $\mathcal{C} = \hoTop$, where it will turn out there is 
 
 
 Since $\pi_*$ is functorial, any homeomorphism $f \in \hom_{\Top}(X, X')$ will induce a homotopy equivalence $f_*^h \in \hom_{\hoTop}(X, X')$ and an isomorphism $f_* \in \hom_{\gr\Grp}( \pi_*(X), \pi_*(X'))$ of graded groups, so this provides some invariant of homeomorphism types of spaces.
