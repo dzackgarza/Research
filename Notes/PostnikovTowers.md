@@ -106,7 +106,8 @@ So the naive hope of writing $X$ as a product of simple spaces won't work. As it
 *can* get is a way to write $X$ in a way that's often referred to as a "twisted" product, which is formalized in
 the notion of a (Serre) fibration.
 
-# Twisted Products
+## Twisted Products
+
 It's perhaps worth spelling out exactly what "twisted product" means here, since it's often glossed over.
 Suppose we have a fibration $F \injects E \mapsvia{p} B$ which is in fact a fiber bundle -- note that this is
 a strictly stronger condition, requiring the fibration to have *local trivialization*. This amounts to
@@ -117,6 +118,11 @@ this product. A primary example of this phenomenon is the Mobius bundle,
 $$
 I \injects M \surjects S^1
 $$
+
+\begin{tikzcd}
+ \ar[r] & \ar[d] \\
+ &  \\
+\end{tikzcd}
 
 which is a line bundle over the circle. Note that locally we do have $M \cong S^1 \cross I$, but since $M$
 is not homeomorphic to a cylinder, this produces a nontrivial bundle. There is instead a global "twist",
@@ -133,7 +139,7 @@ by constructing an interlocking series of fibrations. Luckily for us, our next s
 solving our original problem will involve the construction of Postnikov towers, which explicitly
 encode how this interlocking works.
 
-# Postnikov Towers
+## Postnikov Towers
 
 First I want to define exactly what a Postnikov tower is and how we can explicitly build them using
 CW complexes, since this is something that is treated differently among different sources.
