@@ -11,7 +11,7 @@ First recall that a homeomorphism induces a homotopy equivalence, and conversely
 To fix some terminology, if we have fixed category $\mathcal{C}$, given an object $X\in \Ob(\mathcal{C})$, we define its **$\mathcal{C}\dash$type** $[X]$ to be the set of all objects $X' \in \Ob(\mathcal{C})$ that admit an isomorphism $f\in \hom_{\mathcal{C}}(X, X')$.
 For example, in the category $\mathcal{C} = \Top$ of topological spaces and homeomorphisms, we'll say that $X$ has a unique corresponding *homeomorphism* type, where we identify $X$ with any space it is homeomorphic to.
 Similarly, in the homotopy category of topological spaces $\hoTop$, we identify$X$ with all spaces homotopy-equivalent to $X$.
-We start off with a basic question
+We start off with a 
 
 :::{.question}
 
