@@ -2,8 +2,8 @@
 
 The point of this note is to reword and fill in some details in [Akhil Mathew's post](https://amathew.wordpress.com/2010/12/06/eilenberg-maclane-spaces/amp/)
 
-We start with a very general problem: suppose we are given a topological space $X$ and wish to compute the graded group structure of the homotopy groups
-$\pi_*(X) \da \bigoplus_{j=1}^$. 
+We start with a very general problem: suppose we are given a pointed topological space $(X, x_0)$ and wish to compute the graded group structure of the homotopy groups
+$\pi_*(X) \da \bigoplus_{j=1}^\infty \pi(X; x_0)$. 
 Although the homotopy groups themselves are not a complete invariant of $X$ -- that is, we can
 generally construct spaces that are homotopy-equivalent to $X$ but not homeomorphic --
 this will get us partially there. Moreover, in this process we will determine what extra information
