@@ -47,8 +47,11 @@ We have the following theorem:
 Todo
 :::
 
-From this, nice enough spaces $X$ will admit a weak equivalence to some CW complex $X'$, and so$\pi
-and since many theorems are much nicer for CW complexes than for arbitrary spaces, we implicitly work in this subcategory from here onward.
+From this, nice enough spaces $X$ will admit a weak equivalence to some CW complex $X'$, and so $\pi_*(X) \cong \pi_*(X')$.
+So if we're just interested in computing homotopy groups, this is a harmless step.
+But there is in fact a strict advantage:
+we have many nice tools and theorems that specifically work for CW complexes.
+So we implicitly work in this subcategory from here onward.
 The very first thing we'll do is replace $X$ with a CW complex $\tilde X$ that is homotopy-equivalent to $X$, and we'll immediately abuse notation by just writing $X$ for $\tilde X$ everywhere.
 
 For any group $G$, suppose for a moment that there existed a space $K(G,n)$ (where $n$ is a natural numbers) satisfying
