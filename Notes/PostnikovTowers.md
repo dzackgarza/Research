@@ -17,7 +17,7 @@ We start off with a basic question:
 Given a category $\mathcal{C}$, how much data about an object $X$ is needed to uniquely specify its $\mathcal{C}\dash$type?
 :::
 
-
+For example, 
 
 
 Since $\pi_*$ is functorial, any homeomorphism $f \in \hom_{\Top}(X, X')$ will induce a homotopy equivalence $f_*^h \in \hom_{\hoTop}(X, X')$ and an isomorphism $f_* \in \hom_{\gr\Grp}( \pi_*(X), \pi_*(X'))$ of graded groups, so this provides some invariant of homeomorphism types of spaces.
