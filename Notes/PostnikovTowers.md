@@ -4,9 +4,10 @@ The point of this note is to reword and fill in some details in [Akhil Mathew's 
 
 We start with a very general problem: suppose we are given a pointed topological space $(X, x_0)$ and wish to compute the graded group structure of the homotopy groups
 $\pi_*(X) \da \bigoplus_{j=1}^\infty \pi(X; x_0)$. 
-Although the homotopy groups themselves are not a complete invariant of $X$ -- that is, we can
-generally construct spaces that are homotopy-equivalent to $X$ but not homeomorphic --
-this will get us partially there. Moreover, in this process we will determine what extra information
+Although the homotopy groups themselves are not a *complete* invariant of the topological type of $X$ -- that is, we can
+generally construct spaces $X'$ that are homotopy-equivalent to $X$ but not *homeomorphic* to $X$ --
+this will provide partial information. 
+Moreover, in this process we will determine what extra information
 is needed to in fact obtain a *complete* set of invariants for $X$.
 
 The very first thing we'll do is replace $X$ with a CW complex that is homotopy-equivalent to $X$. By
