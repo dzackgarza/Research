@@ -115,17 +115,14 @@ asking that for every open neighborhood $U \in B$, we have $p^{-1}(B) = F \cross
 is of course strictly weaker than requiring $E\cong F\cross B$ globally, which would be denoted a trivial
 bundle; there may in fact be monodromy in the total space $E$ that topologically distinguishes it from
 this product. A primary example of this phenomenon is the Mobius bundle,
-$$
-I \injects M \surjects S^1
-$$
 
 \begin{tikzcd}
-I \ar[r, hook] & \RR \ar[d, ] \\
+I \ar[r, hook] & \RR \ar[d, ->>] \\
  &  S^1 \\
 \end{tikzcd}
 
-which is a line bundle over the circle. Note that locally we do have $M \cong S^1 \cross I$, but since $M$
-is not homeomorphic to a cylinder, this produces a nontrivial bundle. There is instead a global "twist",
+which is a line bundle over the circle. 
+Note that locally we do have $M \cong S^1 \cross I$, but since $M$ is not homeomorphic to a cylinder, this produces a nontrivial bundle. There is instead a global "twist",
 arising from the fact $M$ is nonorientable and parallel-transporting a small arc in $M$ once around the core
 circle is not the identity map.
 By a somewhat non-precise abuse of notation, one might instead write something like
@@ -144,6 +141,8 @@ encode how this interlocking works.
 First I want to define exactly what a Postnikov tower is and how we can explicitly build them using
 CW complexes, since this is something that is treated differently among different sources.
 
+
+:::{.definition title="Postnikov Tower"}
 The data is a Postnikov tower is a sequence of spaces $\theset{X_i}$ equipped with maps $p_n: X_n \to X_{n-1}$,
 where each $p_n$ is a fibration, and
 $$
@@ -162,6 +161,7 @@ such that the following diagram commutes:
 \vdots                                           &  & \vdots \arrow[d, "p_1"', two heads]                            &  &   \\
 {K(\pi_2X, 3)} \arrow[rr, "k_3", hook]           &  & X_1 \arrow[rr]                                                 &  & X
 \end{tikzcd}
+:::
 
 Note that we have fibrations
 $$K(\pi_{i+1}(X), i+2) \to X_i \to X_{i-1}$$
