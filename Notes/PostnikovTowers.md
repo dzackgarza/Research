@@ -12,9 +12,10 @@ We start off with a basic question:
 :::{.question}
 Given a category $\mathcal{C}$, how much data about an object $X$ is needed to uniquely specify its $\mathcal{C}\dash$type?
 :::
+This data, if it exists, will be referred to as a *complete set of invariants* for $\mathcal{C}$.
 
 One example that doesn't admit an easy answer is $\mathcal{C} = \Top$, where I'm not sure if there are any clear results along these lines.
-A slightly more tractable example is $\mathcal{C} = \hoTop$, where it will turn out there is relatively small set of data that determines the homotopy type of a space completely.
+A slightly more tractable example is $\mathcal{C} = \hoTop$, where it will turn out there is relatively small set of data that determines the homotopy type of a space completely, i.e. there does indeed exist a known complete set of invariants in this category.
 One critical ingredient is the computation of $\pi_*(X)$.
 
 ## Homotopy Groups
