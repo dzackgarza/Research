@@ -16,7 +16,8 @@ Given a category $\mathcal{C}$, how much data about an object $X$ is needed to u
 :::
 This data, if it exists, will be referred to as a *complete set of invariants* for $\mathcal{C}$.
 
-One example that doesn't admit an easy answer is $\mathcal{C} = \Top$, where I'm not sure if there are any clear results along these lines.
+One example that doesn't admit an easy answer is $\mathcal{C} = \Top$, where I'm not sure if there are any clear results along these lines. 
+In fact, I'd expect that this is the case for most categories of interest!
 A slightly more tractable example is $\mathcal{C} = \hoTop$, where it will turn out there is relatively small set of data that determines the homotopy type of a space completely, i.e. there does indeed exist a known complete set of invariants in this category.
 One critical ingredient is the computation of $\pi_*(X)$.
 
@@ -39,7 +40,15 @@ Moreover, in this process we will determine what extra information is needed to 
 In other words, we hope to answer the question of how much data it takes to uniquely specify $[X]$, the homotopy type of $X$.
 
 We'll restrict our attention first to the subcategory of CW complexes.
-By the CW approximation theorem, nice enough spaces $X$ admit a weak equivalence to some CW complex, and since many theorems are much nicer for CW complexes than for arbitrary spaces, we implicitly work in this subcategory from here onward.
+Why is this a good move at this point? 
+We have the following theorem:
+
+:::{.theorem title="CW Approximation"}
+Todo
+:::
+
+From this, nice enough spaces $X$ will admit a weak equivalence to some CW complex $X'$, and so$\pi
+and since many theorems are much nicer for CW complexes than for arbitrary spaces, we implicitly work in this subcategory from here onward.
 The very first thing we'll do is replace $X$ with a CW complex $\tilde X$ that is homotopy-equivalent to $X$, and we'll immediately abuse notation by just writing $X$ for $\tilde X$ everywhere.
 
 For any group $G$, suppose for a moment that there existed a space $K(G,n)$ (where $n$ is a natural numbers) satisfying
