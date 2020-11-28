@@ -20,12 +20,13 @@ One critical ingredient is the computation of $\pi_*(X)$.
 
 ## Homotopy Groups
 
+First recall that a homeomorphism induces a homotopy equivalence, and conversely if two spaces are *not* homotopy equivalent then they can not be homeomorphic.
 So let's reduce to this one piece of the problem: suppose we are given a pointed topological space $(X, x_0)$ (where $x_0$ is some choice of a basepoint) and we wish to compute the graded group structure of the homotopy groups
 \[
 \pi_*(X) \da \bigoplus_{j=1}^\infty \pi(X; x_0)
 \]
 
-First recall that a homeomorphism induces a homotopy equivalence, and conversely if two spaces are *not* homotopy equivalent then they can not be homeomorphic.
+Why do this?
 
 
 Since $\pi_*$ is functorial, any homeomorphism $f \in \hom_{\Top}(X, X')$ will induce a homotopy equivalence $f_*^h \in \hom_{\hoTop}(X, X')$ and an isomorphism $f_* \in \hom_{\gr\Grp}( \pi_*(X), \pi_*(X'))$ of graded groups, so this provides some invariant of homeomorphism types of spaces.
