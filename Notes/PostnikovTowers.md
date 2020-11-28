@@ -6,11 +6,12 @@ We start with a very general problem: suppose we are given a pointed topological
 \[
 \pi_*(X) \da \bigoplus_{j=1}^\infty \pi(X; x_0)
 \]
-Although the homotopy groups themselves are not a *complete* invariant of the topological type of $X$ -- that is, we can
-generally construct spaces $X'$ that are homotopy-equivalent to $X$ but not *homeomorphic* to $X$ --
-this will provide partial information that will allow us to distinguish spaces. 
-Moreover, in this process we will determine what extra information
-is needed to in fact obtain a *complete* set of homotopy invariants for $X$.
+
+Since this construction is functorial, any homeomorphism $f:X\to X'$ will induced an isomorphism $\pi_*(X) \cong \pi_*(X')$ of graded groups, so this provides 
+Although the homotopy groups themselves are not a *complete* invariant of the topological type of $X$ -- that is, we can generally construct spaces $X'$ that are homotopy-equivalent to $X$ but not *homeomorphic* to $X$ --
+this will provide partial information that will allow us to distinguish spaces that are not even homotopy-equivalent. 
+
+Moreover, in this process we will determine what extra information is needed to in fact obtain a *complete* set of homotopy invariants for $X$.
 In other words, we hope to answer the question of how much data it takes to uniquely specify $[X]$, the homotopy type of $X$.
 
 We'll restrict our attention first to the subcategory of CW complexes.
