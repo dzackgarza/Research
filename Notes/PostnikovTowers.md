@@ -161,6 +161,7 @@ such that the following diagram commutes:
 \vdots                                           &  & \vdots \arrow[d, "p_1"', two heads]                            &  &   \\
 {K(\pi_2X, 3)} \arrow[rr, "k_3", hook]           &  & X_1 \arrow[rr]                                                 &  & X
 \end{tikzcd}
+The maps $k_i$ are known as the **$k\dash$invariants** of $X$.
 :::
 
 :::{.remark}
