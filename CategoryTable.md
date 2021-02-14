@@ -1,4 +1,4 @@
-| Category        | Set             | Grp           | Ring        | Field | Ab                | $\Vect_k$         | R-Mod         | $R\dash$Alg        | Sch         | Top           | $\Top_*$     |
+| Category        | Set             | Grp           | Ring        | Field | Ab                | $\Vect_k$         | R-Mod         | $R\dash$cAlg       | Sch         | Top           | $\Top_*$     |
 | --------------- | --------------- | ------------- | ----------- | ----- | ----------------- | ----------------- | ------------- | ------------------ | ----------- | ------------- | ------------ |
 | Product         | $\prod_i A_i$   | $\prod_i A_i$ |             |       |                   |                   | $\prod_i A_i$ |                    |             | $\prod_i A_i$ |              |
 | Coproduct       | $\coprod_i A_i$ | $\ast_i A_i$  | $A\star B $ |       | $\bigoplus_i A_i$ | $\bigoplus_i A_i$ |               | $\bigotimes_i A_i$ |             | $\coprod A_i$ | $\vee_i A_i$ |
