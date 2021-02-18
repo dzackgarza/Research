@@ -12,3 +12,12 @@ $$
 A\star B \cong A \oplus B \oplus (A \otimes B) \oplus (B \otimes A) \oplus (A \otimes A \otimes B) \oplus (A \oplus B \oplus A) \oplus (B \oplus A \oplus A) \oplus ...
 $$
 
+# Notes on Diagram Calculus?
+
+http://mathieu.anel.free.fr/mat/doc/Anel-Semiomaths-HomotopyColimit.pdf
+
+![image-20210218010308802](/home/zack/.config/Typora/typora-user-images/image-20210218010308802.png)
+
+![image-20210218010627345](/home/zack/.config/Typora/typora-user-images/image-20210218010627345.png)
+
+![image-20210218010639958](/home/zack/.config/Typora/typora-user-images/image-20210218010639958.png)
