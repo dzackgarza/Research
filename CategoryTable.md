@@ -27,3 +27,5 @@ http://mathieu.anel.free.fr/mat/doc/Anel-Semiomaths-HomotopyColimit.pdf
 ![image-20210218010809139](/home/zack/.config/Typora/typora-user-images/image-20210218010809139.png)
 
 ![image-20210218011118003](/home/zack/.config/Typora/typora-user-images/image-20210218011118003.png)
+
+![image-20210218012454677](/home/zack/.config/Typora/typora-user-images/image-20210218012454677.png)
