@@ -36,3 +36,9 @@ There is a functor $\pi_0: \infty-\Groupoid \to \Set$.
 
 
 ![image-20210218013131244](/home/zack/.config/Typora/typora-user-images/image-20210218013131244.png)
+
+![image-20210218013730610](/home/zack/.config/Typora/typora-user-images/image-20210218013730610.png)
+
+![image-20210218013828220](/home/zack/.config/Typora/typora-user-images/image-20210218013828220.png)
+
+$BS^1 = \CP^{\infty}$
