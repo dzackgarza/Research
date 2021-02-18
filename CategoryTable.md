@@ -37,8 +37,39 @@ There is a functor $\pi_0: \infty-\Groupoid \to \Set$.
 
 ![image-20210218013131244](/home/zack/.config/Typora/typora-user-images/image-20210218013131244.png)
 
+# What is equivariant cohomology?
+
+https://arxiv.org/pdf/1305.4293.pdf
+
+Uses:
+
+- Calculate number of rational curves in a quintic threefold (Kontsevich 1995)
+- Calculate characteristic numbers of a compact homogeneous space (Tu 2010)
+- Derive Gysin formula for fiber bundles whose fibers are homogeneous spaces (Tu 2011)
+- Calculate integrals over manifolds as sums over fixed points
+
+![image-20210218021511916](/home/zack/.config/Typora/typora-user-images/image-20210218021511916.png)
+
 ![image-20210218013730610](/home/zack/.config/Typora/typora-user-images/image-20210218013730610.png)
+
+If $G\actson M$ with $G$ a compact connected Lie group, Cartan constructs a chain complex from $M, \lieg$.
 
 ![image-20210218013828220](/home/zack/.config/Typora/typora-user-images/image-20210218013828220.png)
 
 $BS^1 = \CP^{\infty}$
+
+![image-20210218014024499](/home/zack/.config/Typora/typora-user-images/image-20210218014024499.png)
+
+![image-20210218014113744](/home/zack/.config/Typora/typora-user-images/image-20210218014113744.png)
+
+![image-20210218014335149](/home/zack/.config/Typora/typora-user-images/image-20210218014335149.png)
+
+![image-20210218014526989](/home/zack/.config/Typora/typora-user-images/image-20210218014526989.png)
+
+# What is a scheme?
+
+https://www.ams.org/publications/journals/notices/201711/rnoti-p1300.pdf
+
+Manifolds are the place to do differential calculus, schemes are the place to do algebra by finding zeros of functions.
+
+Closed points: of the form $V(S) \da \ts{ q\in \spec R \st q\contains S}$
