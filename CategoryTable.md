@@ -29,3 +29,10 @@ http://mathieu.anel.free.fr/mat/doc/Anel-Semiomaths-HomotopyColimit.pdf
 ![image-20210218011118003](/home/zack/.config/Typora/typora-user-images/image-20210218011118003.png)
 
 ![image-20210218012454677](/home/zack/.config/Typora/typora-user-images/image-20210218012454677.png)
+
+Hocolims are $\infty\dash$groupoids, equivalently homotopy types.
+There is a functor $\pi_0: \infty-\Groupoid \to \Set$.
+
+
+
+![image-20210218013131244](/home/zack/.config/Typora/typora-user-images/image-20210218013131244.png)
